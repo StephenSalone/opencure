@@ -56,9 +56,9 @@
       "mw": 129.2,
       "logp": -1.03,
       "lipinski_pass": true,
-      "vina_affinity_kcal_mol": null,
-      "assessment": "PENDING",
-      "notes": "Lipinski pass, docking queued"
+      "vina_affinity_kcal_mol": -4.307,
+      "assessment": "BELOW THRESHOLD",
+      "notes": "Too small/polar for hydrophobic active site of Cruzain. Not recommended."
     },
     {
       "drug": "Auranofin",
