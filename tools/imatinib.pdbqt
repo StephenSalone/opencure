@@ -1,0 +1,67 @@
+REMARK  Name = imatinib_3d.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C5_5  and  N1_6
+REMARK    3  A    between atoms: C6_7  and  C7_9
+REMARK    4  A    between atoms: C10_12  and  C11_13
+REMARK    5  A    between atoms: C11_13  and  N2_14
+REMARK    6  A    between atoms: N3_17  and  C14_18
+REMARK    7  A    between atoms: C20_24  and  N4_25
+REMARK    8  A    between atoms: C24_30  and  C25_31
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1      -5.727  -2.858   2.825  0.00  0.00    +0.000 C 
+ATOM      2  C2  UNL     1      -4.308  -2.528   2.446  0.00  0.00    +0.000 A 
+ATOM      3  C3  UNL     1      -3.282  -3.373   2.894  0.00  0.00    +0.000 A 
+ATOM      4  C4  UNL     1      -1.954  -3.123   2.553  0.00  0.00    +0.000 A 
+ATOM      5  C5  UNL     1      -1.623  -2.016   1.771  0.00  0.00    +0.000 A 
+ATOM      6  C19 UNL     1      -2.647  -1.183   1.307  0.00  0.00    +0.000 A 
+ATOM      7  C20 UNL     1      -3.997  -1.410   1.637  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   7   8
+ATOM      8  N4  UNL     1      -5.034  -0.612   1.132  0.00  0.00    +0.000 N 
+ATOM      9  C21 UNL     1      -5.136   0.242   0.039  0.00  0.00    +0.000 A 
+ATOM     10  N5  UNL     1      -4.161   0.341  -0.874  0.00  0.00    +0.000 NA
+ATOM     11  C22 UNL     1      -4.366   1.167  -1.911  0.00  0.00    +0.000 A 
+ATOM     12  C23 UNL     1      -5.526   1.880  -2.093  0.00  0.00    +0.000 A 
+ATOM     13  C24 UNL     1      -6.501   1.701  -1.133  0.00  0.00    +0.000 A 
+ATOM     14  N7  UNL     1      -6.306   0.896  -0.062  0.00  0.00    +0.000 NA
+ATOM     15  H25 UNL     1      -5.912  -0.618   1.626  0.00  0.00    +0.000 HD
+BRANCH  13  16
+ATOM     16  C25 UNL     1      -7.820   2.351  -1.200  0.00  0.00    +0.000 A 
+ATOM     17  C26 UNL     1      -8.509   2.741  -0.041  0.00  0.00    +0.000 A 
+ATOM     18  C27 UNL     1      -9.767   3.334  -0.126  0.00  0.00    +0.000 A 
+ATOM     19  C28 UNL     1     -10.318   3.525  -1.380  0.00  0.00    +0.000 A 
+ATOM     20  N6  UNL     1      -9.702   3.170  -2.526  0.00  0.00    +0.000 NA
+ATOM     21  C29 UNL     1      -8.480   2.591  -2.405  0.00  0.00    +0.000 A 
+ENDBRANCH  13  16
+ENDBRANCH   7   8
+BRANCH   5  22
+ATOM     22  N1  UNL     1      -0.255  -1.818   1.490  0.00  0.00    +0.000 N 
+ATOM     23  C6  UNL     1       0.335  -0.692   0.947  0.00  0.00    +0.000 C 
+ATOM     24  O1  UNL     1      -0.194   0.370   0.653  0.00  0.00    +0.000 OA
+ATOM     25  H6  UNL     1       0.375  -2.536   1.828  0.00  0.00    +0.000 HD
+BRANCH  23  26
+ATOM     26  C7  UNL     1       1.804  -0.816   0.778  0.00  0.00    +0.000 A 
+ATOM     27  C8  UNL     1       2.627   0.192   1.284  0.00  0.00    +0.000 A 
+ATOM     28  C9  UNL     1       4.013   0.088   1.151  0.00  0.00    +0.000 A 
+ATOM     29  C10 UNL     1       4.584  -1.011   0.491  0.00  0.00    +0.000 A 
+ATOM     30  C17 UNL     1       3.744  -2.006  -0.033  0.00  0.00    +0.000 A 
+ATOM     31  C18 UNL     1       2.358  -1.915   0.114  0.00  0.00    +0.000 A 
+BRANCH  29  32
+ATOM     32  C11 UNL     1       6.085  -1.107   0.307  0.00  0.00    +0.000 C 
+BRANCH  32  33
+ATOM     33  N2  UNL     1       6.508  -0.860  -1.080  0.00  0.00    +0.000 NA
+ATOM     34  C12 UNL     1       6.218   0.535  -1.491  0.00  0.00    +0.000 C 
+ATOM     35  C13 UNL     1       7.190   1.084  -2.558  0.00  0.00    +0.000 C 
+ATOM     36  N3  UNL     1       8.603   1.094  -2.129  0.00  0.00    +0.000 NA
+ATOM     37  C14 UNL     1       9.004   2.392  -1.593  0.00  0.00    +0.000 C 
+ATOM     38  C15 UNL     1       8.881   0.021  -1.151  0.00  0.00    +0.000 C 
+ATOM     39  C16 UNL     1       7.934  -1.189  -1.286  0.00  0.00    +0.000 C 
+ENDBRANCH  32  33
+ENDBRANCH  29  32
+ENDBRANCH  23  26
+ENDBRANCH   5  22
+TORSDOF 6

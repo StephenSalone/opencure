@@ -1,0 +1,76 @@
+{
+  "date": "2026-02-28",
+  "target": {
+    "name": "Cruzain",
+    "organism": "Trypanosoma cruzi",
+    "disease": "Chagas Disease",
+    "pdb_id": "1AIM",
+    "type": "Cysteine protease"
+  },
+  "method": {
+    "docking": "AutoDock Vina v1.2.7",
+    "md_simulation": "OpenMM 8.4 + OpenFF 2.0",
+    "lipinski_screening": "RDKit",
+    "platform": "Apple Silicon M-series (OpenCL GPU)"
+  },
+  "results": [
+    {
+      "drug": "Ivermectin",
+      "approved_for": "Parasitic infections",
+      "smiles": "C1C[C@H]2C[C@@H]1[C@@H]3CC[C@H](O3)[C@@H]2/C=C/[C@@H]4C[C@@H](C[C@@H](O4)C/C=C/[C@H]([C@@H](CC5CC(C=C5)OC(=O)[C@@H]6CCC[NH+]6)C)O)OC",
+      "mw": 474.6,
+      "logp": 3.69,
+      "lipinski_pass": true,
+      "vina_affinity_kcal_mol": -7.262,
+      "md_atoms": 284797,
+      "md_stable": true,
+      "assessment": "STRONG HIT",
+      "notes": "Widely available in Latin America, excellent safety profile, exceeds -6 kcal/mol threshold"
+    },
+    {
+      "drug": "Niclosamide",
+      "approved_for": "Tapeworm infections",
+      "smiles": "OC(=O)c1ccc(Cl)cc1NC(=O)c1cc([N+](=O)[O-])ccc1Cl",
+      "mw": 355.1,
+      "logp": 3.85,
+      "lipinski_pass": true,
+      "vina_affinity_kcal_mol": -6.357,
+      "md_atoms": 284797,
+      "md_stable": true,
+      "assessment": "PROMISING",
+      "notes": "Anti-parasitic, cheap, available in developing countries, exceeds -6 kcal/mol threshold"
+    },
+    {
+      "drug": "Imatinib",
+      "approved_for": "Chronic myeloid leukemia",
+      "mw": 493.6,
+      "logp": 4.59,
+      "lipinski_pass": true,
+      "vina_affinity_kcal_mol": null,
+      "assessment": "PENDING",
+      "notes": "Lipinski pass, docking queued"
+    },
+    {
+      "drug": "Metformin",
+      "approved_for": "Type 2 diabetes",
+      "mw": 129.2,
+      "logp": -1.03,
+      "lipinski_pass": true,
+      "vina_affinity_kcal_mol": null,
+      "assessment": "PENDING",
+      "notes": "Lipinski pass, docking queued"
+    },
+    {
+      "drug": "Auranofin",
+      "approved_for": "Rheumatoid arthritis",
+      "mw": 624.4,
+      "logp": 2.04,
+      "lipinski_pass": false,
+      "assessment": "SKIPPED",
+      "notes": "Fails Lipinski MW threshold (>500)"
+    }
+  ],
+  "summary": "Two FDA-approved drugs (Ivermectin -7.262, Niclosamide -6.357) show promising computational binding to Cruzain above the -6.0 kcal/mol threshold. Ivermectin is the strongest hit. Both drugs are available and affordable in Chagas-endemic regions of Latin America. Experimental validation recommended.",
+  "built_by": "Stephen Salone + Nova (Claude/Anthropic) + Grok (xAI)",
+  "opencure": "https://opencure.life"
+}
