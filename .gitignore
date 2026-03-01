@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+
+# Large binary/data files
+*.dcd
+*.trr
+*.xtc
+*.nc
+*.h5
+
+# OS
+.DS_Store
+
+# Conda/venv
+env/
+venv/
+
+# Secrets
+*.pem
+*.key
+
+# Temp
+*.tmp
+*.log
