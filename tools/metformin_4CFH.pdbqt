@@ -1,0 +1,279 @@
+MODEL 1
+REMARK VINA RESULT:    -5.134      0.000      0.000
+REMARK INTER + INTRA:          -5.134
+REMARK INTER:                  -5.134
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = metformin_3d.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N1_2  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -32.918  44.324  -5.516  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -32.347  45.673  -5.408  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -32.678  46.516  -6.562  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1     -32.311  46.238  -4.148  0.00  0.00    +0.000 C 
+ATOM      5  N2  UNL     1     -32.925  45.711  -3.138  0.00  0.00    +0.000 NA
+ATOM      6  N3  UNL     1     -31.538  47.356  -4.053  0.00  0.00    +0.000 N 
+ATOM      7  C4  UNL     1     -31.489  48.395  -3.189  0.00  0.00    +0.000 C 
+ATOM      8  N4  UNL     1     -32.410  48.777  -2.377  0.00  0.00    +0.000 NA
+ATOM      9  N5  UNL     1     -30.331  49.093  -3.231  0.00  0.00    +0.000 N 
+ATOM     10  H7  UNL     1     -32.692  46.254  -2.301  0.00  0.00    +0.000 HD
+ATOM     11  H8  UNL     1     -30.853  47.418  -4.791  0.00  0.00    +0.000 HD
+ATOM     12  H9  UNL     1     -33.237  48.185  -2.525  0.00  0.00    +0.000 HD
+ATOM     13  H10 UNL     1     -30.351  49.800  -2.498  0.00  0.00    +0.000 HD
+ATOM     14  H11 UNL     1     -29.508  48.513  -3.113  0.00  0.00    +0.000 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -4.827     25.147     26.450
+REMARK INTER + INTRA:          -4.827
+REMARK INTER:                  -4.827
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = metformin_3d.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N1_2  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -15.360  45.846 -22.299  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -15.700  44.526 -22.846  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -16.871  44.569 -23.728  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1     -14.646  43.691 -23.165  0.00  0.00    +0.000 C 
+ATOM      5  N2  UNL     1     -13.420  44.103 -23.180  0.00  0.00    +0.000 NA
+ATOM      6  N3  UNL     1     -15.004  42.399 -23.406  0.00  0.00    +0.000 N 
+ATOM      7  C4  UNL     1     -14.426  41.370 -24.068  0.00  0.00    +0.000 C 
+ATOM      8  N4  UNL     1     -13.494  41.439 -24.952  0.00  0.00    +0.000 NA
+ATOM      9  N5  UNL     1     -14.929  40.157 -23.748  0.00  0.00    +0.000 N 
+ATOM     10  H7  UNL     1     -12.812  43.298 -23.362  0.00  0.00    +0.000 HD
+ATOM     11  H8  UNL     1     -15.896  42.161 -23.001  0.00  0.00    +0.000 HD
+ATOM     12  H9  UNL     1     -13.283  42.430 -25.123  0.00  0.00    +0.000 HD
+ATOM     13  H10 UNL     1     -14.385  39.443 -24.230  0.00  0.00    +0.000 HD
+ATOM     14  H11 UNL     1     -14.919  39.968 -22.752  0.00  0.00    +0.000 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -4.598     23.996     25.025
+REMARK INTER + INTRA:          -4.598
+REMARK INTER:                  -4.598
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = metformin_3d.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N1_2  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -15.876  48.848 -21.573  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -15.815  47.641 -22.407  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -15.445  47.935 -23.795  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1     -15.331  46.492 -21.810  0.00  0.00    +0.000 C 
+ATOM      5  N2  UNL     1     -14.768  46.505 -20.645  0.00  0.00    +0.000 NA
+ATOM      6  N3  UNL     1     -15.545  45.352 -22.524  0.00  0.00    +0.000 N 
+ATOM      7  C4  UNL     1     -14.974  44.127 -22.533  0.00  0.00    +0.000 C 
+ATOM      8  N4  UNL     1     -13.818  43.803 -22.072  0.00  0.00    +0.000 NA
+ATOM      9  N5  UNL     1     -15.729  43.171 -23.120  0.00  0.00    +0.000 N 
+ATOM     10  H7  UNL     1     -14.566  45.538 -20.374  0.00  0.00    +0.000 HD
+ATOM     11  H8  UNL     1     -16.296  45.447 -23.191  0.00  0.00    +0.000 HD
+ATOM     12  H9  UNL     1     -13.356  44.656 -21.729  0.00  0.00    +0.000 HD
+ATOM     13  H10 UNL     1     -15.259  42.274 -23.011  0.00  0.00    +0.000 HD
+ATOM     14  H11 UNL     1     -16.664  43.106 -22.736  0.00  0.00    +0.000 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -4.584     24.230     25.200
+REMARK INTER + INTRA:          -4.584
+REMARK INTER:                  -4.584
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = metformin_3d.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N1_2  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -14.890  42.298 -24.580  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -14.443  43.433 -23.762  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -13.534  44.325 -24.489  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1     -15.366  43.977 -22.890  0.00  0.00    +0.000 C 
+ATOM      5  N2  UNL     1     -16.618  43.653 -22.920  0.00  0.00    +0.000 NA
+ATOM      6  N3  UNL     1     -14.838  44.834 -21.972  0.00  0.00    +0.000 N 
+ATOM      7  C4  UNL     1     -15.349  45.825 -21.206  0.00  0.00    +0.000 C 
+ATOM      8  N4  UNL     1     -16.454  46.457 -21.387  0.00  0.00    +0.000 NA
+ATOM      9  N5  UNL     1     -14.569  46.170 -20.157  0.00  0.00    +0.000 N 
+ATOM     10  H7  UNL     1     -17.090  44.115 -22.137  0.00  0.00    +0.000 HD
+ATOM     11  H8  UNL     1     -13.849  44.694 -21.835  0.00  0.00    +0.000 HD
+ATOM     12  H9  UNL     1     -16.880  46.120 -22.260  0.00  0.00    +0.000 HD
+ATOM     13  H10 UNL     1     -15.065  46.860 -19.597  0.00  0.00    +0.000 HD
+ATOM     14  H11 UNL     1     -14.315  45.383 -19.570  0.00  0.00    +0.000 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -4.498     25.287     26.240
+REMARK INTER + INTRA:          -4.498
+REMARK INTER:                  -4.498
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = metformin_3d.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N1_2  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -16.367  48.843 -24.113  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -15.654  49.590 -23.068  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -15.959  49.100 -21.720  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1     -14.368  50.001 -23.361  0.00  0.00    +0.000 C 
+ATOM      5  N2  UNL     1     -13.734  49.588 -24.410  0.00  0.00    +0.000 NA
+ATOM      6  N3  UNL     1     -13.853  50.910 -22.486  0.00  0.00    +0.000 N 
+ATOM      7  C4  UNL     1     -12.599  51.299 -22.162  0.00  0.00    +0.000 C 
+ATOM      8  N4  UNL     1     -11.505  50.657 -22.377  0.00  0.00    +0.000 NA
+ATOM      9  N5  UNL     1     -12.538  52.490 -21.527  0.00  0.00    +0.000 N 
+ATOM     10  H7  UNL     1     -12.839  50.084 -24.462  0.00  0.00    +0.000 HD
+ATOM     11  H8  UNL     1     -14.568  51.398 -21.969  0.00  0.00    +0.000 HD
+ATOM     12  H9  UNL     1     -11.740  49.750 -22.800  0.00  0.00    +0.000 HD
+ATOM     13  H10 UNL     1     -11.559  52.738 -21.395  0.00  0.00    +0.000 HD
+ATOM     14  H11 UNL     1     -13.007  53.237 -22.027  0.00  0.00    +0.000 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -4.472     24.081     25.584
+REMARK INTER + INTRA:          -4.472
+REMARK INTER:                  -4.472
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = metformin_3d.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N1_2  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -19.834  43.836 -24.451  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -19.341  42.517 -24.033  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -20.416  41.644 -23.550  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1     -18.311  41.971 -24.774  0.00  0.00    +0.000 C 
+ATOM      5  N2  UNL     1     -17.924  42.482 -25.898  0.00  0.00    +0.000 NA
+ATOM      6  N3  UNL     1     -17.712  40.892 -24.197  0.00  0.00    +0.000 N 
+ATOM      7  C4  UNL     1     -16.964  39.868 -24.667  0.00  0.00    +0.000 C 
+ATOM      8  N4  UNL     1     -16.886  39.454 -25.882  0.00  0.00    +0.000 NA
+ATOM      9  N5  UNL     1     -16.250  39.225 -23.716  0.00  0.00    +0.000 N 
+ATOM     10  H7  UNL     1     -17.102  41.962 -26.221  0.00  0.00    +0.000 HD
+ATOM     11  H8  UNL     1     -17.861  40.853 -23.200  0.00  0.00    +0.000 HD
+ATOM     12  H9  UNL     1     -17.541  40.004 -26.453  0.00  0.00    +0.000 HD
+ATOM     13  H10 UNL     1     -15.661  38.528 -24.168  0.00  0.00    +0.000 HD
+ATOM     14  H11 UNL     1     -15.669  39.844 -23.163  0.00  0.00    +0.000 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -4.420     25.153     26.383
+REMARK INTER + INTRA:          -4.420
+REMARK INTER:                  -4.420
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = metformin_3d.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N1_2  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -19.645  40.667 -26.186  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -18.638  41.271 -25.303  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -19.205  41.715 -24.026  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1     -17.375  40.711 -25.321  0.00  0.00    +0.000 C 
+ATOM      5  N2  UNL     1     -17.125  39.592 -25.921  0.00  0.00    +0.000 NA
+ATOM      6  N3  UNL     1     -16.417  41.459 -24.705  0.00  0.00    +0.000 N 
+ATOM      7  C4  UNL     1     -15.203  41.184 -24.177  0.00  0.00    +0.000 C 
+ATOM      8  N4  UNL     1     -14.752  40.034 -23.818  0.00  0.00    +0.000 NA
+ATOM      9  N5  UNL     1     -14.416  42.270 -24.007  0.00  0.00    +0.000 N 
+ATOM     10  H7  UNL     1     -16.116  39.419 -25.871  0.00  0.00    +0.000 HD
+ATOM     11  H8  UNL     1     -16.674  42.431 -24.628  0.00  0.00    +0.000 HD
+ATOM     12  H9  UNL     1     -15.499  39.339 -23.950  0.00  0.00    +0.000 HD
+ATOM     13  H10 UNL     1     -13.502  41.962 -23.683  0.00  0.00    +0.000 HD
+ATOM     14  H11 UNL     1     -14.303  42.820 -24.851  0.00  0.00    +0.000 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -4.419     23.545     24.468
+REMARK INTER + INTRA:          -4.419
+REMARK INTER:                  -4.419
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = metformin_3d.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N1_2  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -15.471  44.362 -22.213  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -15.538  45.642 -21.496  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -14.928  45.572 -20.164  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1     -15.380  46.790 -22.250  0.00  0.00    +0.000 C 
+ATOM      5  N2  UNL     1     -14.993  46.757 -23.484  0.00  0.00    +0.000 NA
+ATOM      6  N3  UNL     1     -15.717  47.940 -21.602  0.00  0.00    +0.000 N 
+ATOM      7  C4  UNL     1     -15.406  49.244 -21.778  0.00  0.00    +0.000 C 
+ATOM      8  N4  UNL     1     -14.413  49.726 -22.439  0.00  0.00    +0.000 NA
+ATOM      9  N5  UNL     1     -16.247  50.101 -21.156  0.00  0.00    +0.000 N 
+ATOM     10  H7  UNL     1     -15.028  47.710 -23.857  0.00  0.00    +0.000 HD
+ATOM     11  H8  UNL     1     -16.333  47.779 -20.820  0.00  0.00    +0.000 HD
+ATOM     12  H9  UNL     1     -13.842  48.942 -22.782  0.00  0.00    +0.000 HD
+ATOM     13  H10 UNL     1     -15.986  51.052 -21.408  0.00  0.00    +0.000 HD
+ATOM     14  H11 UNL     1     -17.221  49.949 -21.393  0.00  0.00    +0.000 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -4.204     25.990     26.740
+REMARK INTER + INTRA:          -4.204
+REMARK INTER:                  -4.204
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = metformin_3d.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: N1_2  and  C2_3
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  UNL     1     -18.097  40.767 -26.409  0.00  0.00    +0.000 C 
+ATOM      2  N1  UNL     1     -17.235  40.959 -25.236  0.00  0.00    +0.000 N 
+ATOM      3  C2  UNL     1     -16.852  39.691 -24.606  0.00  0.00    +0.000 C 
+ATOM      4  C3  UNL     1     -16.312  41.985 -25.300  0.00  0.00    +0.000 C 
+ATOM      5  N2  UNL     1     -16.064  42.623 -26.398  0.00  0.00    +0.000 NA
+ATOM      6  N3  UNL     1     -15.732  42.298 -24.107  0.00  0.00    +0.000 N 
+ATOM      7  C4  UNL     1     -14.589  42.927 -23.752  0.00  0.00    +0.000 C 
+ATOM      8  N4  UNL     1     -13.548  43.121 -24.483  0.00  0.00    +0.000 NA
+ATOM      9  N5  UNL     1     -14.574  43.366 -22.474  0.00  0.00    +0.000 N 
+ATOM     10  H7  UNL     1     -15.412  43.385 -26.188  0.00  0.00    +0.000 HD
+ATOM     11  H8  UNL     1     -16.280  41.992 -23.317  0.00  0.00    +0.000 HD
+ATOM     12  H9  UNL     1     -13.702  42.665 -25.392  0.00  0.00    +0.000 HD
+ATOM     13  H10 UNL     1     -13.716  43.892 -22.321  0.00  0.00    +0.000 HD
+ATOM     14  H11 UNL     1     -15.369  43.950 -22.241  0.00  0.00    +0.000 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
