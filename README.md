@@ -4,6 +4,8 @@
 
 Finding cures for diseases the world forgot about.
 
+## 🤗 [Live Demo — Try It Now](https://huggingface.co/spaces/SciloanBort/opencure-ntd-screen)
+
 🌐 [opencure.life](https://opencure.life) | 📄 [Preprint (bioRxiv)](https://biorxiv.org) | 📧 stephen@salonecapital.com
 
 ---
