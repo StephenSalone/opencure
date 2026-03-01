@@ -1,0 +1,25 @@
+{
+  "date": "2026-03-01",
+  "phase": "Phase 2 - Longevity",
+  "pipeline": "AutoDock Vina 1.2.7",
+  "threshold_kcal_mol": -6.0,
+  "targets": [
+    {"name": "SIRT1", "pdb": "4ZZJ", "role": "NAD+ deacetylase, longevity regulator"},
+    {"name": "mTOR", "pdb": "4JSN", "role": "Central aging/metabolism regulator"},
+    {"name": "AMPK", "pdb": "4CFH", "role": "Energy sensor, longevity pathway"},
+    {"name": "BCL-2", "pdb": "4LVT", "role": "Senolytic target"},
+    {"name": "p53", "pdb": "2OCJ", "role": "Senescence/aging gatekeeper"}
+  ],
+  "results": {
+    "Niclosamide": {"SIRT1": -10.52, "mTOR": -6.745, "AMPK": -7.839, "BCL2": -6.233, "p53": -6.531, "hits": 5},
+    "Imatinib":    {"SIRT1": -10.08, "mTOR": -8.125, "AMPK": -8.799, "BCL2": -7.262, "p53": -8.229, "hits": 5},
+    "Ivermectin":  {"SIRT1": -9.959, "mTOR": -7.401, "AMPK": -7.861, "BCL2": -6.308, "p53": -6.997, "hits": 5},
+    "Metformin":   {"SIRT1": -5.518, "mTOR": -4.294, "AMPK": -5.134, "BCL2": -4.217, "p53": -4.257, "hits": 0}
+  },
+  "headline_finding": "Niclosamide scores -10.52 on SIRT1 - strongest score across all 9 targets screened (NTD + longevity). Published 2025 mouse study confirms anti-aging activity (PMID 40274225). No prior paper links Niclosamide directly to SIRT1 - potential novel finding.",
+  "literature": [
+    {"pmid": "40274225", "year": 2025, "finding": "Niclosamide extends healthspan and reduces frailty in aged mice via mTOR inhibition"},
+    {"doi": "10.3389/fonc.2022.1004978", "year": 2022, "finding": "Niclosamide inhibits mTOR via AMPK/AKT pathway - The Magic Bullet"},
+    {"journal": "Anticancer Research", "year": 2020, "finding": "Niclosamide activates AMPK in cancer cells"}
+  ]
+}
