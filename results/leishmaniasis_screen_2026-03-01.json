@@ -1,0 +1,16 @@
+{
+  "date": "2026-03-01",
+  "disease": "Leishmaniasis",
+  "target": "Pteridine Reductase 1 (PTR1)",
+  "pdb_id": "2BFA",
+  "organism": "Leishmania major",
+  "tool": "AutoDock Vina 1.2.7",
+  "threshold_kcal_mol": -6.0,
+  "results": [
+    {"drug": "Imatinib", "score": -8.273, "hit": true, "tier": "strong"},
+    {"drug": "Niclosamide", "score": -7.199, "hit": true, "tier": "hit"},
+    {"drug": "Ivermectin", "score": -6.722, "hit": true, "tier": "hit"},
+    {"drug": "Metformin", "score": -4.961, "hit": false, "tier": "below_threshold"}
+  ],
+  "notes": "Geometric center docking box 30x30x30A. Rigid receptor. Hypothesis-generating only."
+}
