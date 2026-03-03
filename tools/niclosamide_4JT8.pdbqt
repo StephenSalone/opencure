@@ -1,0 +1,495 @@
+MODEL 1
+REMARK VINA RESULT:    -9.598      0.000      0.000
+REMARK INTER + INTRA:         -12.479
+REMARK INTER:                 -12.123
+REMARK INTRA:                  -0.357
+REMARK UNBOUND:                -0.357
+REMARK  Name = niclosamide_3d.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C1_2  and  C2_4
+REMARK    3  A    between atoms: C7_10  and  N1_11
+REMARK    4  A    between atoms: C8_12  and  C9_14
+REMARK    5  A    between atoms: C11_16  and  N2_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      22.734  42.125  -9.614  0.00  0.00    +0.000 N 
+ATOM      2  C8  UNL     1      23.159  42.068 -10.924  0.00  0.00    +0.000 C 
+ATOM      3  O3  UNL     1      23.394  41.065 -11.585  0.00  0.00    +0.000 OA
+ATOM      4  H5  UNL     1      22.544  43.050  -9.224  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  11
+ATOM      5  C2  UNL     1      23.035  41.137  -7.392  0.00  0.00    +0.000 A 
+ATOM      6  C3  UNL     1      22.830  40.073  -6.493  0.00  0.00    +0.000 A 
+ATOM      7  C4  UNL     1      22.117  38.939  -6.880  0.00  0.00    +0.000 A 
+ATOM      8  C5  UNL     1      21.607  38.863  -8.171  0.00  0.00    +0.000 A 
+ATOM      9 CL1  UNL     1      20.728  37.464  -8.653  0.00  0.00    +0.000 Cl
+ATOM     10  C6  UNL     1      21.803  39.908  -9.077  0.00  0.00    +0.000 A 
+ATOM     11  C7  UNL     1      22.517  41.057  -8.707  0.00  0.00    +0.000 A 
+BRANCH   5  12
+ATOM     12  C1  UNL     1      23.812  42.287  -6.845  0.00  0.00    +0.000 C 
+ATOM     13  O2  UNL     1      23.653  43.456  -7.149  0.00  0.00    +0.000 OA
+BRANCH  12  14
+ATOM     14  O1  UNL     1      24.764  41.949  -5.953  0.00  0.00    +0.000 OA
+ATOM     15  H1  UNL     1      25.491  42.575  -6.175  0.00  0.00    +0.000 HD
+ENDBRANCH  12  14
+ENDBRANCH   5  12
+ENDBRANCH   1  11
+BRANCH   2  16
+ATOM     16  C9  UNL     1      23.270  43.378 -11.614  0.00  0.00    +0.000 A 
+ATOM     17  C10 UNL     1      23.407  44.509 -10.790  0.00  0.00    +0.000 A 
+ATOM     18  C11 UNL     1      23.506  45.780 -11.367  0.00  0.00    +0.000 A 
+ATOM     19  C12 UNL     1      23.460  45.935 -12.757  0.00  0.00    +0.000 A 
+ATOM     20  C13 UNL     1      23.306  44.809 -13.571  0.00  0.00    +0.000 A 
+ATOM     21  C14 UNL     1      23.205  43.531 -13.006  0.00  0.00    +0.000 A 
+ATOM     22 CL2  UNL     1      22.959  42.209 -14.091  0.00  0.00    +0.000 Cl
+BRANCH  18  23
+ATOM     23  N2  UNL     1      23.664  46.962 -10.509  0.00  0.00    +0.000 N 
+ATOM     24  O4  UNL     1      24.477  46.889  -9.577  0.00  0.00    +0.000 OA
+ATOM     25  O5  UNL     1      22.966  47.952 -10.762  0.00  0.00    +0.000 OA
+ENDBRANCH  18  23
+ENDBRANCH   2  16
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -9.507      3.018      7.427
+REMARK INTER + INTRA:         -12.364
+REMARK INTER:                 -11.493
+REMARK INTRA:                  -0.871
+REMARK UNBOUND:                -0.357
+REMARK  Name = niclosamide_3d.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C1_2  and  C2_4
+REMARK    3  A    between atoms: C7_10  and  N1_11
+REMARK    4  A    between atoms: C8_12  and  C9_14
+REMARK    5  A    between atoms: C11_16  and  N2_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      23.217  42.859  -9.597  0.00  0.00    +0.000 N 
+ATOM      2  C8  UNL     1      22.274  42.644  -8.615  0.00  0.00    +0.000 C 
+ATOM      3  O3  UNL     1      21.292  43.331  -8.367  0.00  0.00    +0.000 OA
+ATOM      4  H5  UNL     1      23.957  42.161  -9.696  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  11
+ATOM      5  C2  UNL     1      23.213  43.689 -11.903  0.00  0.00    +0.000 A 
+ATOM      6  C3  UNL     1      23.317  44.758 -12.814  0.00  0.00    +0.000 A 
+ATOM      7  C4  UNL     1      23.511  46.062 -12.364  0.00  0.00    +0.000 A 
+ATOM      8  C5  UNL     1      23.605  46.305 -10.999  0.00  0.00    +0.000 A 
+ATOM      9 CL1  UNL     1      23.847  47.915 -10.440  0.00  0.00    +0.000 Cl
+ATOM     10  C6  UNL     1      23.507  45.257 -10.080  0.00  0.00    +0.000 A 
+ATOM     11  C7  UNL     1      23.311  43.937 -10.512  0.00  0.00    +0.000 A 
+BRANCH   5  12
+ATOM     12  C1  UNL     1      23.005  42.347 -12.521  0.00  0.00    +0.000 C 
+ATOM     13  O2  UNL     1      22.959  41.291 -11.917  0.00  0.00    +0.000 OA
+BRANCH  12  14
+ATOM     14  O1  UNL     1      22.873  42.361 -13.862  0.00  0.00    +0.000 OA
+ATOM     15  H1  UNL     1      22.417  41.506 -14.037  0.00  0.00    +0.000 HD
+ENDBRANCH  12  14
+ENDBRANCH   5  12
+ENDBRANCH   1  11
+BRANCH   2  16
+ATOM     16  C9  UNL     1      22.447  41.397  -7.829  0.00  0.00    +0.000 A 
+ATOM     17  C10 UNL     1      21.570  40.340  -8.132  0.00  0.00    +0.000 A 
+ATOM     18  C11 UNL     1      21.664  39.135  -7.427  0.00  0.00    +0.000 A 
+ATOM     19  C12 UNL     1      22.619  38.977  -6.416  0.00  0.00    +0.000 A 
+ATOM     20  C13 UNL     1      23.477  40.036  -6.107  0.00  0.00    +0.000 A 
+ATOM     21  C14 UNL     1      23.393  41.247  -6.805  0.00  0.00    +0.000 A 
+ATOM     22 CL2  UNL     1      24.457  42.515  -6.312  0.00  0.00    +0.000 Cl
+BRANCH  18  23
+ATOM     23  N2  UNL     1      20.758  38.026  -7.751  0.00  0.00    +0.000 N 
+ATOM     24  O4  UNL     1      20.238  37.416  -6.807  0.00  0.00    +0.000 OA
+ATOM     25  O5  UNL     1      20.579  37.762  -8.948  0.00  0.00    +0.000 OA
+ENDBRANCH  18  23
+ENDBRANCH   2  16
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -9.266      2.840      7.095
+REMARK INTER + INTRA:         -12.061
+REMARK INTER:                 -11.710
+REMARK INTRA:                  -0.351
+REMARK UNBOUND:                -0.357
+REMARK  Name = niclosamide_3d.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C1_2  and  C2_4
+REMARK    3  A    between atoms: C7_10  and  N1_11
+REMARK    4  A    between atoms: C8_12  and  C9_14
+REMARK    5  A    between atoms: C11_16  and  N2_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      23.642  42.796  -9.507  0.00  0.00    +0.000 N 
+ATOM      2  C8  UNL     1      22.593  41.902  -9.497  0.00  0.00    +0.000 C 
+ATOM      3  O3  UNL     1      21.696  41.802 -10.324  0.00  0.00    +0.000 OA
+ATOM      4  H5  UNL     1      24.332  42.716  -8.758  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  11
+ATOM      5  C2  UNL     1      23.496  45.159 -10.140  0.00  0.00    +0.000 A 
+ATOM      6  C3  UNL     1      23.751  46.192 -11.062  0.00  0.00    +0.000 A 
+ATOM      7  C4  UNL     1      24.411  45.930 -12.262  0.00  0.00    +0.000 A 
+ATOM      8  C5  UNL     1      24.818  44.632 -12.547  0.00  0.00    +0.000 A 
+ATOM      9 CL1  UNL     1      25.631  44.306 -14.028  0.00  0.00    +0.000 Cl
+ATOM     10  C6  UNL     1      24.571  43.594 -11.645  0.00  0.00    +0.000 A 
+ATOM     11  C7  UNL     1      23.909  43.836 -10.432  0.00  0.00    +0.000 A 
+BRANCH   5  12
+ATOM     12  C1  UNL     1      22.785  45.579  -8.898  0.00  0.00    +0.000 C 
+ATOM     13  O2  UNL     1      21.764  45.077  -8.464  0.00  0.00    +0.000 OA
+BRANCH  12  14
+ATOM     14  O1  UNL     1      23.356  46.611  -8.245  0.00  0.00    +0.000 OA
+ATOM     15  H1  UNL     1      22.768  47.363  -8.487  0.00  0.00    +0.000 HD
+ENDBRANCH  12  14
+ENDBRANCH   5  12
+ENDBRANCH   1  11
+BRANCH   2  16
+ATOM     16  C9  UNL     1      22.611  40.912  -8.391  0.00  0.00    +0.000 A 
+ATOM     17  C10 UNL     1      21.812  39.768  -8.563  0.00  0.00    +0.000 A 
+ATOM     18  C11 UNL     1      21.769  38.794  -7.559  0.00  0.00    +0.000 A 
+ATOM     19  C12 UNL     1      22.507  38.955  -6.381  0.00  0.00    +0.000 A 
+ATOM     20  C13 UNL     1      23.287  40.102  -6.208  0.00  0.00    +0.000 A 
+ATOM     21  C14 UNL     1      23.338  41.085  -7.205  0.00  0.00    +0.000 A 
+ATOM     22 CL2  UNL     1      24.283  42.492  -6.873  0.00  0.00    +0.000 Cl
+BRANCH  18  23
+ATOM     23  N2  UNL     1      20.945  37.591  -7.743  0.00  0.00    +0.000 N 
+ATOM     24  O4  UNL     1      20.501  37.369  -8.877  0.00  0.00    +0.000 OA
+ATOM     25  O5  UNL     1      20.738  36.881  -6.750  0.00  0.00    +0.000 OA
+ENDBRANCH  18  23
+ENDBRANCH   2  16
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -9.103      2.422      2.796
+REMARK INTER + INTRA:         -11.854
+REMARK INTER:                 -11.251
+REMARK INTRA:                  -0.602
+REMARK UNBOUND:                -0.357
+REMARK  Name = niclosamide_3d.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C1_2  and  C2_4
+REMARK    3  A    between atoms: C7_10  and  N1_11
+REMARK    4  A    between atoms: C8_12  and  C9_14
+REMARK    5  A    between atoms: C11_16  and  N2_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      22.950  42.752  -9.226  0.00  0.00    +0.000 N 
+ATOM      2  C8  UNL     1      24.120  43.380  -9.596  0.00  0.00    +0.000 C 
+ATOM      3  O3  UNL     1      25.264  43.030  -9.334  0.00  0.00    +0.000 OA
+ATOM      4  H5  UNL     1      22.075  43.156  -9.566  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  11
+ATOM      5  C2  UNL     1      23.246  41.600  -7.083  0.00  0.00    +0.000 A 
+ATOM      6  C3  UNL     1      23.088  40.450  -6.285  0.00  0.00    +0.000 A 
+ATOM      7  C4  UNL     1      22.475  39.308  -6.795  0.00  0.00    +0.000 A 
+ATOM      8  C5  UNL     1      22.017  39.307  -8.107  0.00  0.00    +0.000 A 
+ATOM      9 CL1  UNL     1      21.262  37.896  -8.740  0.00  0.00    +0.000 Cl
+ATOM     10  C6  UNL     1      22.167  40.437  -8.915  0.00  0.00    +0.000 A 
+ATOM     11  C7  UNL     1      22.781  41.598  -8.421  0.00  0.00    +0.000 A 
+BRANCH   5  12
+ATOM     12  C1  UNL     1      23.917  42.751  -6.411  0.00  0.00    +0.000 C 
+ATOM     13  O2  UNL     1      23.370  43.782  -6.063  0.00  0.00    +0.000 OA
+BRANCH  12  14
+ATOM     14  O1  UNL     1      25.239  42.589  -6.207  0.00  0.00    +0.000 OA
+ATOM     15  H1  UNL     1      25.425  43.254  -5.506  0.00  0.00    +0.000 HD
+ENDBRANCH  12  14
+ENDBRANCH   5  12
+ENDBRANCH   1  11
+BRANCH   2  16
+ATOM     16  C9  UNL     1      23.956  44.568 -10.469  0.00  0.00    +0.000 A 
+ATOM     17  C10 UNL     1      24.424  44.444 -11.789  0.00  0.00    +0.000 A 
+ATOM     18  C11 UNL     1      24.314  45.525 -12.671  0.00  0.00    +0.000 A 
+ATOM     19  C12 UNL     1      23.750  46.734 -12.244  0.00  0.00    +0.000 A 
+ATOM     20  C13 UNL     1      23.302  46.859 -10.927  0.00  0.00    +0.000 A 
+ATOM     21  C14 UNL     1      23.407  45.783 -10.034  0.00  0.00    +0.000 A 
+ATOM     22 CL2  UNL     1      22.879  46.053  -8.412  0.00  0.00    +0.000 Cl
+BRANCH  18  23
+ATOM     23  N2  UNL     1      24.790  45.393 -14.054  0.00  0.00    +0.000 N 
+ATOM     24  O4  UNL     1      24.324  46.171 -14.897  0.00  0.00    +0.000 OA
+ATOM     25  O5  UNL     1      25.618  44.504 -14.293  0.00  0.00    +0.000 OA
+ENDBRANCH  18  23
+ENDBRANCH   2  16
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -8.853      2.150      6.828
+REMARK INTER + INTRA:         -11.539
+REMARK INTER:                 -10.626
+REMARK INTRA:                  -0.913
+REMARK UNBOUND:                -0.357
+REMARK  Name = niclosamide_3d.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C1_2  and  C2_4
+REMARK    3  A    between atoms: C7_10  and  N1_11
+REMARK    4  A    between atoms: C8_12  and  C9_14
+REMARK    5  A    between atoms: C11_16  and  N2_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      23.365  45.009 -11.421  0.00  0.00    +0.000 N 
+ATOM      2  C8  UNL     1      24.212  44.041 -10.925  0.00  0.00    +0.000 C 
+ATOM      3  O3  UNL     1      25.431  44.000 -11.027  0.00  0.00    +0.000 OA
+ATOM      4  H5  UNL     1      22.370  44.912 -11.210  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  11
+ATOM      5  C2  UNL     1      23.959  47.382 -11.566  0.00  0.00    +0.000 A 
+ATOM      6  C3  UNL     1      24.265  48.517 -12.341  0.00  0.00    +0.000 A 
+ATOM      7  C4  UNL     1      24.306  48.440 -13.732  0.00  0.00    +0.000 A 
+ATOM      8  C5  UNL     1      24.037  47.228 -14.357  0.00  0.00    +0.000 A 
+ATOM      9 CL1  UNL     1      24.083  47.131 -16.074  0.00  0.00    +0.000 Cl
+ATOM     10  C6  UNL     1      23.728  46.092 -13.604  0.00  0.00    +0.000 A 
+ATOM     11  C7  UNL     1      23.683  46.147 -12.203  0.00  0.00    +0.000 A 
+BRANCH   5  12
+ATOM     12  C1  UNL     1      23.953  47.605 -10.091  0.00  0.00    +0.000 C 
+ATOM     13  O2  UNL     1      23.357  48.496  -9.513  0.00  0.00    +0.000 OA
+BRANCH  12  14
+ATOM     14  O1  UNL     1      24.693  46.725  -9.387  0.00  0.00    +0.000 OA
+ATOM     15  H1  UNL     1      24.692  45.934  -9.972  0.00  0.00    +0.000 HD
+ENDBRANCH  12  14
+ENDBRANCH   5  12
+ENDBRANCH   1  11
+BRANCH   2  16
+ATOM     16  C9  UNL     1      23.561  42.978 -10.120  0.00  0.00    +0.000 A 
+ATOM     17  C10 UNL     1      23.793  43.014  -8.734  0.00  0.00    +0.000 A 
+ATOM     18  C11 UNL     1      23.221  42.039  -7.908  0.00  0.00    +0.000 A 
+ATOM     19  C12 UNL     1      22.429  41.022  -8.454  0.00  0.00    +0.000 A 
+ATOM     20  C13 UNL     1      22.216  40.980  -9.834  0.00  0.00    +0.000 A 
+ATOM     21  C14 UNL     1      22.782  41.951 -10.672  0.00  0.00    +0.000 A 
+ATOM     22 CL2  UNL     1      22.509  41.781 -12.369  0.00  0.00    +0.000 Cl
+BRANCH  18  23
+ATOM     23  N2  UNL     1      23.451  42.083  -6.458  0.00  0.00    +0.000 N 
+ATOM     24  O4  UNL     1      24.000  41.104  -5.935  0.00  0.00    +0.000 OA
+ATOM     25  O5  UNL     1      23.071  43.091  -5.847  0.00  0.00    +0.000 OA
+ENDBRANCH  18  23
+ENDBRANCH   2  16
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -8.800      1.119      1.470
+REMARK INTER + INTRA:         -11.472
+REMARK INTER:                 -10.608
+REMARK INTRA:                  -0.864
+REMARK UNBOUND:                -0.357
+REMARK  Name = niclosamide_3d.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C1_2  and  C2_4
+REMARK    3  A    between atoms: C7_10  and  N1_11
+REMARK    4  A    between atoms: C8_12  and  C9_14
+REMARK    5  A    between atoms: C11_16  and  N2_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      22.497  42.429 -10.227  0.00  0.00    +0.000 N 
+ATOM      2  C8  UNL     1      23.688  42.953 -10.682  0.00  0.00    +0.000 C 
+ATOM      3  O3  UNL     1      24.817  42.653 -10.317  0.00  0.00    +0.000 OA
+ATOM      4  H5  UNL     1      21.640  42.764 -10.670  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  11
+ATOM      5  C2  UNL     1      22.496  41.825  -7.852  0.00  0.00    +0.000 A 
+ATOM      6  C3  UNL     1      22.296  40.870  -6.837  0.00  0.00    +0.000 A 
+ATOM      7  C4  UNL     1      21.887  39.574  -7.148  0.00  0.00    +0.000 A 
+ATOM      8  C5  UNL     1      21.678  39.226  -8.477  0.00  0.00    +0.000 A 
+ATOM      9 CL1  UNL     1      21.176  37.626  -8.865  0.00  0.00    +0.000 Cl
+ATOM     10  C6  UNL     1      21.874  40.160  -9.498  0.00  0.00    +0.000 A 
+ATOM     11  C7  UNL     1      22.285  41.469  -9.206  0.00  0.00    +0.000 A 
+BRANCH   5  12
+ATOM     12  C1  UNL     1      22.930  43.172  -7.378  0.00  0.00    +0.000 C 
+ATOM     13  O2  UNL     1      23.845  43.386  -6.603  0.00  0.00    +0.000 OA
+BRANCH  12  14
+ATOM     14  O1  UNL     1      22.211  44.200  -7.871  0.00  0.00    +0.000 OA
+ATOM     15  H1  UNL     1      21.671  43.763  -8.568  0.00  0.00    +0.000 HD
+ENDBRANCH  12  14
+ENDBRANCH   5  12
+ENDBRANCH   1  11
+BRANCH   2  16
+ATOM     16  C9  UNL     1      23.570  43.936 -11.787  0.00  0.00    +0.000 A 
+ATOM     17  C10 UNL     1      23.528  45.291 -11.416  0.00  0.00    +0.000 A 
+ATOM     18  C11 UNL     1      23.407  46.278 -12.401  0.00  0.00    +0.000 A 
+ATOM     19  C12 UNL     1      23.318  45.925 -13.752  0.00  0.00    +0.000 A 
+ATOM     20  C13 UNL     1      23.343  44.576 -14.115  0.00  0.00    +0.000 A 
+ATOM     21  C14 UNL     1      23.463  43.578 -13.138  0.00  0.00    +0.000 A 
+ATOM     22 CL2  UNL     1      23.426  41.939 -13.680  0.00  0.00    +0.000 Cl
+BRANCH  18  23
+ATOM     23  N2  UNL     1      23.377  47.695 -12.016  0.00  0.00    +0.000 N 
+ATOM     24  O4  UNL     1      23.945  48.504 -12.763  0.00  0.00    +0.000 OA
+ATOM     25  O5  UNL     1      22.795  47.992 -10.964  0.00  0.00    +0.000 OA
+ENDBRANCH  18  23
+ENDBRANCH   2  16
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -8.423      2.383      3.250
+REMARK INTER + INTRA:         -10.995
+REMARK INTER:                 -10.069
+REMARK INTRA:                  -0.926
+REMARK UNBOUND:                -0.357
+REMARK  Name = niclosamide_3d.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C1_2  and  C2_4
+REMARK    3  A    between atoms: C7_10  and  N1_11
+REMARK    4  A    between atoms: C8_12  and  C9_14
+REMARK    5  A    between atoms: C11_16  and  N2_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      22.972  44.069 -11.365  0.00  0.00    +0.000 N 
+ATOM      2  C8  UNL     1      24.239  44.434 -11.767  0.00  0.00    +0.000 C 
+ATOM      3  O3  UNL     1      25.302  44.118 -11.248  0.00  0.00    +0.000 OA
+ATOM      4  H5  UNL     1      22.189  44.387 -11.939  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  11
+ATOM      5  C2  UNL     1      22.388  43.926  -8.989  0.00  0.00    +0.000 A 
+ATOM      6  C3  UNL     1      22.018  43.157  -7.869  0.00  0.00    +0.000 A 
+ATOM      7  C4  UNL     1      21.842  41.779  -7.977  0.00  0.00    +0.000 A 
+ATOM      8  C5  UNL     1      22.037  41.161  -9.206  0.00  0.00    +0.000 A 
+ATOM      9 CL1  UNL     1      21.822  39.458  -9.341  0.00  0.00    +0.000 Cl
+ATOM     10  C6  UNL     1      22.407  41.907 -10.328  0.00  0.00    +0.000 A 
+ATOM     11  C7  UNL     1      22.589  43.295 -10.241  0.00  0.00    +0.000 A 
+BRANCH   5  12
+ATOM     12  C1  UNL     1      22.540  45.388  -8.733  0.00  0.00    +0.000 C 
+ATOM     13  O2  UNL     1      23.522  46.055  -9.007  0.00  0.00    +0.000 OA
+BRANCH  12  14
+ATOM     14  O1  UNL     1      21.479  45.967  -8.138  0.00  0.00    +0.000 OA
+ATOM     15  H1  UNL     1      20.763  45.818  -8.796  0.00  0.00    +0.000 HD
+ENDBRANCH  12  14
+ENDBRANCH   5  12
+ENDBRANCH   1  11
+BRANCH   2  16
+ATOM     16  C9  UNL     1      24.304  45.240 -13.012  0.00  0.00    +0.000 A 
+ATOM     17  C10 UNL     1      24.047  46.616 -12.880  0.00  0.00    +0.000 A 
+ATOM     18  C11 UNL     1      24.080  47.440 -14.010  0.00  0.00    +0.000 A 
+ATOM     19  C12 UNL     1      24.356  46.903 -15.273  0.00  0.00    +0.000 A 
+ATOM     20  C13 UNL     1      24.594  45.532 -15.402  0.00  0.00    +0.000 A 
+ATOM     21  C14 UNL     1      24.564  44.696 -14.278  0.00  0.00    +0.000 A 
+ATOM     22 CL2  UNL     1      24.813  43.008 -14.547  0.00  0.00    +0.000 Cl
+BRANCH  18  23
+ATOM     23  N2  UNL     1      23.825  48.880 -13.872  0.00  0.00    +0.000 N 
+ATOM     24  O4  UNL     1      24.756  49.654 -14.133  0.00  0.00    +0.000 OA
+ATOM     25  O5  UNL     1      22.699  49.230 -13.493  0.00  0.00    +0.000 OA
+ENDBRANCH  18  23
+ENDBRANCH   2  16
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -8.299      2.775      7.213
+REMARK INTER + INTRA:         -10.839
+REMARK INTER:                  -9.873
+REMARK INTRA:                  -0.966
+REMARK UNBOUND:                -0.357
+REMARK  Name = niclosamide_3d.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C1_2  and  C2_4
+REMARK    3  A    between atoms: C7_10  and  N1_11
+REMARK    4  A    between atoms: C8_12  and  C9_14
+REMARK    5  A    between atoms: C11_16  and  N2_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      23.282  44.890 -11.090  0.00  0.00    +0.000 N 
+ATOM      2  C8  UNL     1      24.125  43.882 -10.672  0.00  0.00    +0.000 C 
+ATOM      3  O3  UNL     1      25.343  43.840 -10.783  0.00  0.00    +0.000 OA
+ATOM      4  H5  UNL     1      22.288  44.784 -10.882  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  11
+ATOM      5  C2  UNL     1      23.739  46.058 -13.196  0.00  0.00    +0.000 A 
+ATOM      6  C3  UNL     1      24.070  47.239 -13.887  0.00  0.00    +0.000 A 
+ATOM      7  C4  UNL     1      24.265  48.437 -13.201  0.00  0.00    +0.000 A 
+ATOM      8  C5  UNL     1      24.131  48.459 -11.818  0.00  0.00    +0.000 A 
+ATOM      9 CL1  UNL     1      24.374  49.936 -10.968  0.00  0.00    +0.000 Cl
+ATOM     10  C6  UNL     1      23.806  47.297 -11.114  0.00  0.00    +0.000 A 
+ATOM     11  C7  UNL     1      23.605  46.082 -11.786  0.00  0.00    +0.000 A 
+BRANCH   5  12
+ATOM     12  C1  UNL     1      23.557  44.851 -14.053  0.00  0.00    +0.000 C 
+ATOM     13  O2  UNL     1      22.625  44.658 -14.813  0.00  0.00    +0.000 OA
+BRANCH  12  14
+ATOM     14  O1  UNL     1      24.528  43.924 -13.931  0.00  0.00    +0.000 OA
+ATOM     15  H1  UNL     1      25.045  44.052 -14.758  0.00  0.00    +0.000 HD
+ENDBRANCH  12  14
+ENDBRANCH   5  12
+ENDBRANCH   1  11
+BRANCH   2  16
+ATOM     16  C9  UNL     1      23.470  42.766  -9.946  0.00  0.00    +0.000 A 
+ATOM     17  C10 UNL     1      23.776  42.646  -8.579  0.00  0.00    +0.000 A 
+ATOM     18  C11 UNL     1      23.205  41.612  -7.827  0.00  0.00    +0.000 A 
+ATOM     19  C12 UNL     1      22.340  40.691  -8.429  0.00  0.00    +0.000 A 
+ATOM     20  C13 UNL     1      22.053  40.804  -9.792  0.00  0.00    +0.000 A 
+ATOM     21  C14 UNL     1      22.618  41.834 -10.555  0.00  0.00    +0.000 A 
+ATOM     22 CL2  UNL     1      22.249  41.856 -12.243  0.00  0.00    +0.000 Cl
+BRANCH  18  23
+ATOM     23  N2  UNL     1      23.512  41.493  -6.396  0.00  0.00    +0.000 N 
+ATOM     24  O4  UNL     1      23.467  42.525  -5.713  0.00  0.00    +0.000 OA
+ATOM     25  O5  UNL     1      23.808  40.371  -5.964  0.00  0.00    +0.000 OA
+ENDBRANCH  18  23
+ENDBRANCH   2  16
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -8.132      3.258      7.688
+REMARK INTER + INTRA:         -10.627
+REMARK INTER:                  -9.705
+REMARK INTRA:                  -0.923
+REMARK UNBOUND:                -0.357
+REMARK  Name = niclosamide_3d.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C1_2  and  C2_4
+REMARK    3  A    between atoms: C7_10  and  N1_11
+REMARK    4  A    between atoms: C8_12  and  C9_14
+REMARK    5  A    between atoms: C11_16  and  N2_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N1  UNL     1      23.394  45.776 -12.303  0.00  0.00    +0.000 N 
+ATOM      2  C8  UNL     1      24.246  44.816 -11.800  0.00  0.00    +0.000 C 
+ATOM      3  O3  UNL     1      25.447  44.928 -11.589  0.00  0.00    +0.000 OA
+ATOM      4  H5  UNL     1      22.405  45.530 -12.378  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   1  11
+ATOM      5  C2  UNL     1      24.099  47.306 -14.082  0.00  0.00    +0.000 A 
+ATOM      6  C3  UNL     1      24.414  48.608 -14.517  0.00  0.00    +0.000 A 
+ATOM      7  C4  UNL     1      24.333  49.691 -13.643  0.00  0.00    +0.000 A 
+ATOM      8  C5  UNL     1      23.938  49.477 -12.327  0.00  0.00    +0.000 A 
+ATOM      9 CL1  UNL     1      23.839  50.812 -11.245  0.00  0.00    +0.000 Cl
+ATOM     10  C6  UNL     1      23.625  48.192 -11.877  0.00  0.00    +0.000 A 
+ATOM     11  C7  UNL     1      23.700  47.089 -12.741  0.00  0.00    +0.000 A 
+BRANCH   5  12
+ATOM     12  C1  UNL     1      24.227  46.243 -15.121  0.00  0.00    +0.000 C 
+ATOM     13  O2  UNL     1      25.066  45.360 -15.128  0.00  0.00    +0.000 OA
+BRANCH  12  14
+ATOM     14  O1  UNL     1      23.322  46.319 -16.117  0.00  0.00    +0.000 OA
+ATOM     15  H1  UNL     1      23.858  46.076 -16.906  0.00  0.00    +0.000 HD
+ENDBRANCH  12  14
+ENDBRANCH   5  12
+ENDBRANCH   1  11
+BRANCH   2  16
+ATOM     16  C9  UNL     1      23.604  43.537 -11.410  0.00  0.00    +0.000 A 
+ATOM     17  C10 UNL     1      23.025  43.492 -10.129  0.00  0.00    +0.000 A 
+ATOM     18  C11 UNL     1      22.409  42.317  -9.686  0.00  0.00    +0.000 A 
+ATOM     19  C12 UNL     1      22.374  41.181 -10.504  0.00  0.00    +0.000 A 
+ATOM     20  C13 UNL     1      22.965  41.225 -11.769  0.00  0.00    +0.000 A 
+ATOM     21  C14 UNL     1      23.585  42.396 -12.225  0.00  0.00    +0.000 A 
+ATOM     22 CL2  UNL     1      24.338  42.333 -13.778  0.00  0.00    +0.000 Cl
+BRANCH  18  23
+ATOM     23  N2  UNL     1      21.792  42.273  -8.354  0.00  0.00    +0.000 N 
+ATOM     24  O4  UNL     1      21.459  43.350  -7.841  0.00  0.00    +0.000 OA
+ATOM     25  O5  UNL     1      21.653  41.163  -7.822  0.00  0.00    +0.000 OA
+ENDBRANCH  18  23
+ENDBRANCH   2  16
+TORSDOF 5
+ENDMDL
