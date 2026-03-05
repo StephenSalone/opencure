@@ -1,0 +1,59 @@
+{
+  "Bahrain": {
+    "real_sec": 92.608,
+    "best_raw": 92.561,
+    "calibrated": 92.608,
+    "cf": 1.0005,
+    "prev_cf": 0.8466,
+    "cf_delta": 0.1539,
+    "best_compound": "SOFT",
+    "best_setup": {
+      "wd": 0.4579,
+      "rhf": 0.04334,
+      "rhr": 0.08339,
+      "cb": 0.562,
+      "ers": 0.39928,
+      "aat": 50.20598,
+      "fuel": 93.30394,
+      "dif": 0.55358
+    }
+  },
+  "British": {
+    "real_sec": 88.293,
+    "best_raw": 88.303,
+    "calibrated": 88.293,
+    "cf": 0.9999,
+    "prev_cf": 0.7158,
+    "cf_delta": 0.2841,
+    "best_compound": "SOFT",
+    "best_setup": {
+      "wd": 0.45376,
+      "rhf": 0.04316,
+      "rhr": 0.10724,
+      "cb": 0.54049,
+      "ers": 0.62489,
+      "aat": 51.35608,
+      "fuel": 102.71732,
+      "dif": 0.7592
+    }
+  },
+  "Monaco": {
+    "real_sec": 74.165,
+    "best_raw": 74.157,
+    "calibrated": 74.165,
+    "cf": 1.0001,
+    "prev_cf": 0.7503,
+    "cf_delta": 0.2498,
+    "best_compound": "SOFT",
+    "best_setup": {
+      "wd": 0.45364,
+      "rhf": 0.04495,
+      "rhr": 0.07318,
+      "cb": 0.56233,
+      "ers": 0.95147,
+      "aat": 51.35544,
+      "fuel": 97.41722,
+      "dif": 0.86266
+    }
+  }
+}
