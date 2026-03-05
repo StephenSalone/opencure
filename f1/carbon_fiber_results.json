@@ -1,0 +1,56 @@
+[
+  {
+    "name": "TGDDM_epoxy",
+    "description": "High-temp F1 epoxy",
+    "MW": 408.5,
+    "LogP": 2.56,
+    "aromatic_rings": 2,
+    "HBD": 0,
+    "interface_score": 109.6
+  },
+  {
+    "name": "novel_polybenzimidazole",
+    "description": "NOVEL: ultra-rigid candidate",
+    "MW": 180.2,
+    "LogP": 2.78,
+    "aromatic_rings": 3,
+    "HBD": 0,
+    "interface_score": 91.0
+  },
+  {
+    "name": "polyimide_monomer",
+    "description": "Extreme temp resistant",
+    "MW": 216.1,
+    "LogP": 1.1,
+    "aromatic_rings": 2,
+    "HBD": 0,
+    "interface_score": 84.2
+  },
+  {
+    "name": "bisphenol_A_epoxy",
+    "description": "Standard aerospace epoxy",
+    "MW": 340.4,
+    "LogP": 3.57,
+    "aromatic_rings": 2,
+    "HBD": 0,
+    "interface_score": 83.0
+  },
+  {
+    "name": "bismaleimide",
+    "description": "BMI - premium F1",
+    "MW": 358.4,
+    "LogP": 2.14,
+    "aromatic_rings": 2,
+    "HBD": 0,
+    "interface_score": 82.1
+  },
+  {
+    "name": "cyanate_ester",
+    "description": "Ultra-high temp",
+    "MW": 278.3,
+    "LogP": 3.73,
+    "aromatic_rings": 2,
+    "HBD": 0,
+    "interface_score": 66.1
+  }
+]
