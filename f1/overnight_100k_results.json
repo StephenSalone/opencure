@@ -1,0 +1,78 @@
+{
+  "Bahrain": {
+    "real_sec": 92.608,
+    "best_raw": 109.387,
+    "best_calibrated": 92.608,
+    "calibration_factor": 0.8466,
+    "best_compound": "MEDIUM",
+    "best_setup": {
+      "wd": 0.46293,
+      "rhf": 0.0314,
+      "rhr": 0.07514,
+      "cb": 0.60548,
+      "ers": 0.74499,
+      "aat": 95.36139,
+      "fuel": 80.00286,
+      "dif": 0.52388
+    },
+    "n_valid_sims": 100000,
+    "elapsed_sec": 0.8
+  },
+  "British": {
+    "real_sec": 88.293,
+    "best_raw": 123.35,
+    "best_calibrated": 88.293,
+    "calibration_factor": 0.7158,
+    "best_compound": "SOFT",
+    "best_setup": {
+      "wd": 0.46293,
+      "rhf": 0.0314,
+      "rhr": 0.07514,
+      "cb": 0.60548,
+      "ers": 0.74499,
+      "aat": 95.36139,
+      "fuel": 80.00286,
+      "dif": 0.52388
+    },
+    "n_valid_sims": 100000,
+    "elapsed_sec": 0.7
+  },
+  "Monaco": {
+    "real_sec": 74.165,
+    "best_raw": 98.849,
+    "best_calibrated": 74.165,
+    "calibration_factor": 0.7503,
+    "best_compound": "SOFT",
+    "best_setup": {
+      "wd": 0.46293,
+      "rhf": 0.0314,
+      "rhr": 0.07514,
+      "cb": 0.60548,
+      "ers": 0.74499,
+      "aat": 95.36139,
+      "fuel": 80.00286,
+      "dif": 0.52388
+    },
+    "n_valid_sims": 100000,
+    "elapsed_sec": 0.7
+  },
+  "Bahrain_night": {
+    "real_sec": 92.608,
+    "best_raw": 111.091,
+    "best_calibrated": 92.608,
+    "calibration_factor": 0.8336,
+    "best_compound": "MEDIUM",
+    "best_setup": {
+      "wd": 0.46293,
+      "rhf": 0.0314,
+      "rhr": 0.07514,
+      "cb": 0.60548,
+      "ers": 0.74499,
+      "aat": 95.36139,
+      "fuel": 80.00286,
+      "dif": 0.52388
+    },
+    "n_valid_sims": 100000,
+    "elapsed_sec": 0.8
+  }
+}
