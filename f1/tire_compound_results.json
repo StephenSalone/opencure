@@ -1,0 +1,87 @@
+{
+  "isoprene_monomer": {
+    "ambient_300K": {
+      "PE": 15.062,
+      "KE": 3.418,
+      "Total": 18.48
+    },
+    "racing_100C": {
+      "PE": 14.899,
+      "KE": 4.999,
+      "Total": 19.898
+    },
+    "extreme_150C": {
+      "PE": 14.563,
+      "KE": 5.267,
+      "Total": 19.83
+    }
+  },
+  "styrene": {
+    "ambient_300K": {
+      "PE": 8.639,
+      "KE": 8.682,
+      "Total": 17.32
+    },
+    "racing_100C": {
+      "PE": 9.852,
+      "KE": 8.494,
+      "Total": 18.347
+    },
+    "extreme_150C": {
+      "PE": 11.11,
+      "KE": 7.647,
+      "Total": 18.758
+    }
+  },
+  "butadiene": {
+    "ambient_300K": {
+      "PE": 5.519,
+      "KE": 3.343,
+      "Total": 8.861
+    },
+    "racing_100C": {
+      "PE": 6.629,
+      "KE": 4.104,
+      "Total": 10.733
+    },
+    "extreme_150C": {
+      "PE": 7.503,
+      "KE": 5.586,
+      "Total": 13.088
+    }
+  },
+  "toluene_diisocyanate": {
+    "ambient_300K": {
+      "PE": -33.634,
+      "KE": 10.148,
+      "Total": -23.486
+    },
+    "racing_100C": {
+      "PE": -32.723,
+      "KE": 8.368,
+      "Total": -24.355
+    },
+    "extreme_150C": {
+      "PE": -33.813,
+      "KE": 10.245,
+      "Total": -23.568
+    }
+  },
+  "silane_APTES": {
+    "ambient_300K": {
+      "PE": -51.384,
+      "KE": 15.519,
+      "Total": -35.865
+    },
+    "racing_100C": {
+      "PE": -53.084,
+      "KE": 18.101,
+      "Total": -34.983
+    },
+    "extreme_150C": {
+      "PE": -44.584,
+      "KE": 19.107,
+      "Total": -25.477
+    }
+  }
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "name": "naphthalene",
+    "smiles": "c1ccc2ccccc2c1",
+    "formula": "C10H8",
+    "MW": 128.17,
+    "LogP": 2.84,
+    "octane_proxy": 60.2,
+    "aromatic_rings": 2,
+    "TPSA": 0.0
+  },
+  {
+    "name": "tetralin",
+    "smiles": "C1CCc2ccccc2C1",
+    "formula": "C10H12",
+    "MW": 132.21,
+    "LogP": 2.565,
+    "octane_proxy": 43.8,
+    "aromatic_rings": 1,
+    "TPSA": 0.0
+  },
+  {
+    "name": "trimethylbenzene",
+    "smiles": "Cc1cc(C)cc(C)c1",
+    "formula": "C9H12",
+    "MW": 120.19,
+    "LogP": 2.612,
+    "octane_proxy": 36.1,
+    "aromatic_rings": 1,
+    "TPSA": 0.0
+  },
+  {
+    "name": "toluene",
+    "smiles": "Cc1ccccc1",
+    "formula": "C7H8",
+    "MW": 92.14,
+    "LogP": 1.995,
+    "octane_proxy": 33.0,
+    "aromatic_rings": 1,
+    "TPSA": 0.0
+  },
+  {
+    "name": "methyl_cyclohexane",
+    "smiles": "CC1CCCCC1",
+    "formula": "C7H14",
+    "MW": 98.19,
+    "LogP": 2.587,
+    "octane_proxy": 20.9,
+    "aromatic_rings": 0,
+    "TPSA": 0.0
+  },
+  {
+    "name": "cyclopentadiene",
+    "smiles": "C1=CC=C1",
+    "formula": "C4H4",
+    "MW": 52.08,
+    "LogP": 1.112,
+    "octane_proxy": 13.6,
+    "aromatic_rings": 0,
+    "TPSA": 0.0
+  },
+  {
+    "name": "MTBE",
+    "smiles": "COC(C)(C)C",
+    "formula": "C5H12O",
+    "MW": 88.15,
+    "LogP": 1.431,
+    "octane_proxy": 2.5,
+    "aromatic_rings": 0,
+    "TPSA": 9.23
+  },
+  {
+    "name": "diethyl_ether",
+    "smiles": "CCOCC",
+    "formula": "C4H10O",
+    "MW": 74.12,
+    "LogP": 1.043,
+    "octane_proxy": 0.6,
+    "aromatic_rings": 0,
+    "TPSA": 9.23
+  },
+  {
+    "name": "gamma_butyrolactone",
+    "smiles": "O=C1CCCO1",
+    "formula": "C4H6O2",
+    "MW": 86.09,
+    "LogP": 0.323,
+    "octane_proxy": -3.5,
+    "aromatic_rings": 0,
+    "TPSA": 26.3
+  },
+  {
+    "name": "ethanol",
+    "smiles": "CCO",
+    "formula": "C2H6O",
+    "MW": 46.07,
+    "LogP": -0.001,
+    "octane_proxy": -10.1,
+    "aromatic_rings": 0,
+    "TPSA": 20.23
+  },
+  {
+    "name": "dimethyl_carbonate",
+    "smiles": "COC(=O)OC",
+    "formula": "C3H6O3",
+    "MW": 90.08,
+    "LogP": 0.399,
+    "octane_proxy": -15.8,
+    "aromatic_rings": 0,
+    "TPSA": 35.53
+  },
+  {
+    "name": "nitromethane",
+    "smiles": "C[N+](=O)[O-]",
+    "formula": "CH3NO2",
+    "MW": 61.04,
+    "LogP": -0.107,
+    "octane_proxy": -22.1,
+    "aromatic_rings": 0,
+    "TPSA": 43.14
+  },
+  {
+    "name": "MMT_antiknock",
+    "smiles": "[Mn](=O)(=O)=O",
+    "formula": "MnO3",
+    "MW": 102.93,
+    "LogP": -0.359,
+    "octane_proxy": -27.4,
+    "aromatic_rings": 0,
+    "TPSA": 51.21
+  }
+]
