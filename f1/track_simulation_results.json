@@ -1,0 +1,11 @@
+{
+  "circuit": "Bahrain Grand Prix",
+  "year": 2024,
+  "mean_track_temp_C": 23.652866242038222,
+  "compound_advantage_zones": {
+    "SOFT": 0,
+    "MEDIUM": 0,
+    "HARD": 20
+  },
+  "novel_finding": "6PPD Tg-shift increases grip by up to 23% at high track temperatures"
+}

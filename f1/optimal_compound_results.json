@@ -1,0 +1,1337 @@
+{
+  "optimal_Tg": 32,
+  "top10": [
+    {
+      "Tg_C": 32,
+      "total_advantage": -0.7787,
+      "circuits": {
+        "Bahrain": -0.0339,
+        "Monaco": -0.1457,
+        "British": 0.0968,
+        "Singapore": -0.0289,
+        "Abu Dhabi": 0.0408,
+        "Italian": -0.1152,
+        "Hungary": -0.3206,
+        "Austria": 0.0378,
+        "Spa": -0.1052,
+        "Japan": 0.0931,
+        "Mexico": 0.0635,
+        "Brazil": -0.0076,
+        "Las Vegas": -0.3537
+      }
+    },
+    {
+      "Tg_C": 31,
+      "total_advantage": -0.7823,
+      "circuits": {
+        "Bahrain": -0.012,
+        "Monaco": -0.1782,
+        "British": 0.1083,
+        "Singapore": -0.0434,
+        "Abu Dhabi": 0.0399,
+        "Italian": -0.144,
+        "Hungary": -0.3543,
+        "Austria": 0.0363,
+        "Spa": -0.0797,
+        "Japan": 0.1037,
+        "Mexico": 0.0797,
+        "Brazil": -0.0182,
+        "Las Vegas": -0.3202
+      }
+    },
+    {
+      "Tg_C": 33,
+      "total_advantage": -0.8021,
+      "circuits": {
+        "Bahrain": -0.058,
+        "Monaco": -0.1139,
+        "British": 0.0825,
+        "Singapore": -0.0171,
+        "Abu Dhabi": 0.0386,
+        "Italian": -0.0881,
+        "Hungary": -0.287,
+        "Austria": 0.0363,
+        "Spa": -0.1325,
+        "Japan": 0.0797,
+        "Mexico": 0.0447,
+        "Brazil": 0.0,
+        "Las Vegas": -0.3873
+      }
+    },
+    {
+      "Tg_C": 30,
+      "total_advantage": -0.8128,
+      "circuits": {
+        "Bahrain": 0.0075,
+        "Monaco": -0.2114,
+        "British": 0.1168,
+        "Singapore": -0.0607,
+        "Abu Dhabi": 0.0359,
+        "Italian": -0.1742,
+        "Hungary": -0.3878,
+        "Austria": 0.0317,
+        "Spa": -0.0562,
+        "Japan": 0.1113,
+        "Mexico": 0.0931,
+        "Brazil": -0.0317,
+        "Las Vegas": -0.2872
+      }
+    },
+    {
+      "Tg_C": 34,
+      "total_advantage": -0.8522,
+      "circuits": {
+        "Bahrain": -0.0841,
+        "Monaco": -0.0833,
+        "British": 0.0655,
+        "Singapore": -0.0083,
+        "Abu Dhabi": 0.0334,
+        "Italian": -0.0628,
+        "Hungary": -0.2535,
+        "Austria": 0.0317,
+        "Spa": -0.1614,
+        "Japan": 0.0635,
+        "Mexico": 0.0235,
+        "Brazil": 0.0046,
+        "Las Vegas": -0.421
+      }
+    },
+    {
+      "Tg_C": 29,
+      "total_advantage": -0.8701,
+      "circuits": {
+        "Bahrain": 0.0245,
+        "Monaco": -0.2449,
+        "British": 0.1223,
+        "Singapore": -0.0805,
+        "Abu Dhabi": 0.0288,
+        "Italian": -0.2055,
+        "Hungary": -0.4208,
+        "Austria": 0.0241,
+        "Spa": -0.035,
+        "Japan": 0.116,
+        "Mexico": 0.1037,
+        "Brazil": -0.0479,
+        "Las Vegas": -0.2549
+      }
+    },
+    {
+      "Tg_C": 35,
+      "total_advantage": -0.9284,
+      "circuits": {
+        "Bahrain": -0.1119,
+        "Monaco": -0.0539,
+        "British": 0.046,
+        "Singapore": -0.0025,
+        "Abu Dhabi": 0.0252,
+        "Italian": -0.0395,
+        "Hungary": -0.2205,
+        "Austria": 0.0241,
+        "Spa": -0.1917,
+        "Japan": 0.0447,
+        "Mexico": 0.0,
+        "Brazil": 0.0062,
+        "Las Vegas": -0.4544
+      }
+    },
+    {
+      "Tg_C": 28,
+      "total_advantage": -0.9539,
+      "circuits": {
+        "Bahrain": 0.0388,
+        "Monaco": -0.2786,
+        "British": 0.1248,
+        "Singapore": -0.1026,
+        "Abu Dhabi": 0.0188,
+        "Italian": -0.2378,
+        "Hungary": -0.4533,
+        "Austria": 0.0135,
+        "Spa": -0.0162,
+        "Japan": 0.1175,
+        "Mexico": 0.1113,
+        "Brazil": -0.0667,
+        "Las Vegas": -0.2234
+      }
+    },
+    {
+      "Tg_C": 36,
+      "total_advantage": -1.0303,
+      "circuits": {
+        "Bahrain": -0.1413,
+        "Monaco": -0.0261,
+        "British": 0.0241,
+        "Singapore": 0.0003,
+        "Abu Dhabi": 0.014,
+        "Italian": -0.0185,
+        "Hungary": -0.1882,
+        "Austria": 0.0135,
+        "Spa": -0.2232,
+        "Japan": 0.0235,
+        "Mexico": -0.0255,
+        "Brazil": 0.0046,
+        "Las Vegas": -0.4875
+      }
+    },
+    {
+      "Tg_C": 27,
+      "total_advantage": -1.0637,
+      "circuits": {
+        "Bahrain": 0.0503,
+        "Monaco": -0.3123,
+        "British": 0.1242,
+        "Singapore": -0.1269,
+        "Abu Dhabi": 0.0059,
+        "Italian": -0.2707,
+        "Hungary": -0.4851,
+        "Austria": 0.0,
+        "Spa": 0.0,
+        "Japan": 0.116,
+        "Mexico": 0.116,
+        "Brazil": -0.0879,
+        "Las Vegas": -0.1931
+      }
+    }
+  ],
+  "all": [
+    {
+      "Tg_C": 32,
+      "total_advantage": -0.7787,
+      "circuits": {
+        "Bahrain": -0.0339,
+        "Monaco": -0.1457,
+        "British": 0.0968,
+        "Singapore": -0.0289,
+        "Abu Dhabi": 0.0408,
+        "Italian": -0.1152,
+        "Hungary": -0.3206,
+        "Austria": 0.0378,
+        "Spa": -0.1052,
+        "Japan": 0.0931,
+        "Mexico": 0.0635,
+        "Brazil": -0.0076,
+        "Las Vegas": -0.3537
+      }
+    },
+    {
+      "Tg_C": 31,
+      "total_advantage": -0.7823,
+      "circuits": {
+        "Bahrain": -0.012,
+        "Monaco": -0.1782,
+        "British": 0.1083,
+        "Singapore": -0.0434,
+        "Abu Dhabi": 0.0399,
+        "Italian": -0.144,
+        "Hungary": -0.3543,
+        "Austria": 0.0363,
+        "Spa": -0.0797,
+        "Japan": 0.1037,
+        "Mexico": 0.0797,
+        "Brazil": -0.0182,
+        "Las Vegas": -0.3202
+      }
+    },
+    {
+      "Tg_C": 33,
+      "total_advantage": -0.8021,
+      "circuits": {
+        "Bahrain": -0.058,
+        "Monaco": -0.1139,
+        "British": 0.0825,
+        "Singapore": -0.0171,
+        "Abu Dhabi": 0.0386,
+        "Italian": -0.0881,
+        "Hungary": -0.287,
+        "Austria": 0.0363,
+        "Spa": -0.1325,
+        "Japan": 0.0797,
+        "Mexico": 0.0447,
+        "Brazil": 0.0,
+        "Las Vegas": -0.3873
+      }
+    },
+    {
+      "Tg_C": 30,
+      "total_advantage": -0.8128,
+      "circuits": {
+        "Bahrain": 0.0075,
+        "Monaco": -0.2114,
+        "British": 0.1168,
+        "Singapore": -0.0607,
+        "Abu Dhabi": 0.0359,
+        "Italian": -0.1742,
+        "Hungary": -0.3878,
+        "Austria": 0.0317,
+        "Spa": -0.0562,
+        "Japan": 0.1113,
+        "Mexico": 0.0931,
+        "Brazil": -0.0317,
+        "Las Vegas": -0.2872
+      }
+    },
+    {
+      "Tg_C": 34,
+      "total_advantage": -0.8522,
+      "circuits": {
+        "Bahrain": -0.0841,
+        "Monaco": -0.0833,
+        "British": 0.0655,
+        "Singapore": -0.0083,
+        "Abu Dhabi": 0.0334,
+        "Italian": -0.0628,
+        "Hungary": -0.2535,
+        "Austria": 0.0317,
+        "Spa": -0.1614,
+        "Japan": 0.0635,
+        "Mexico": 0.0235,
+        "Brazil": 0.0046,
+        "Las Vegas": -0.421
+      }
+    },
+    {
+      "Tg_C": 29,
+      "total_advantage": -0.8701,
+      "circuits": {
+        "Bahrain": 0.0245,
+        "Monaco": -0.2449,
+        "British": 0.1223,
+        "Singapore": -0.0805,
+        "Abu Dhabi": 0.0288,
+        "Italian": -0.2055,
+        "Hungary": -0.4208,
+        "Austria": 0.0241,
+        "Spa": -0.035,
+        "Japan": 0.116,
+        "Mexico": 0.1037,
+        "Brazil": -0.0479,
+        "Las Vegas": -0.2549
+      }
+    },
+    {
+      "Tg_C": 35,
+      "total_advantage": -0.9284,
+      "circuits": {
+        "Bahrain": -0.1119,
+        "Monaco": -0.0539,
+        "British": 0.046,
+        "Singapore": -0.0025,
+        "Abu Dhabi": 0.0252,
+        "Italian": -0.0395,
+        "Hungary": -0.2205,
+        "Austria": 0.0241,
+        "Spa": -0.1917,
+        "Japan": 0.0447,
+        "Mexico": 0.0,
+        "Brazil": 0.0062,
+        "Las Vegas": -0.4544
+      }
+    },
+    {
+      "Tg_C": 28,
+      "total_advantage": -0.9539,
+      "circuits": {
+        "Bahrain": 0.0388,
+        "Monaco": -0.2786,
+        "British": 0.1248,
+        "Singapore": -0.1026,
+        "Abu Dhabi": 0.0188,
+        "Italian": -0.2378,
+        "Hungary": -0.4533,
+        "Austria": 0.0135,
+        "Spa": -0.0162,
+        "Japan": 0.1175,
+        "Mexico": 0.1113,
+        "Brazil": -0.0667,
+        "Las Vegas": -0.2234
+      }
+    },
+    {
+      "Tg_C": 36,
+      "total_advantage": -1.0303,
+      "circuits": {
+        "Bahrain": -0.1413,
+        "Monaco": -0.0261,
+        "British": 0.0241,
+        "Singapore": 0.0003,
+        "Abu Dhabi": 0.014,
+        "Italian": -0.0185,
+        "Hungary": -0.1882,
+        "Austria": 0.0135,
+        "Spa": -0.2232,
+        "Japan": 0.0235,
+        "Mexico": -0.0255,
+        "Brazil": 0.0046,
+        "Las Vegas": -0.4875
+      }
+    },
+    {
+      "Tg_C": 27,
+      "total_advantage": -1.0637,
+      "circuits": {
+        "Bahrain": 0.0503,
+        "Monaco": -0.3123,
+        "British": 0.1242,
+        "Singapore": -0.1269,
+        "Abu Dhabi": 0.0059,
+        "Italian": -0.2707,
+        "Hungary": -0.4851,
+        "Austria": 0.0,
+        "Spa": 0.0,
+        "Japan": 0.116,
+        "Mexico": 0.116,
+        "Brazil": -0.0879,
+        "Las Vegas": -0.1931
+      }
+    },
+    {
+      "Tg_C": 37,
+      "total_advantage": -1.1571,
+      "circuits": {
+        "Bahrain": -0.172,
+        "Monaco": 0.0,
+        "British": 0.0,
+        "Singapore": 0.0,
+        "Abu Dhabi": 0.0,
+        "Italian": 0.0,
+        "Hungary": -0.1567,
+        "Austria": 0.0,
+        "Spa": -0.2555,
+        "Japan": 0.0,
+        "Mexico": -0.0528,
+        "Brazil": 0.0,
+        "Las Vegas": -0.52
+      }
+    },
+    {
+      "Tg_C": 26,
+      "total_advantage": -1.1988,
+      "circuits": {
+        "Bahrain": 0.0588,
+        "Monaco": -0.3456,
+        "British": 0.1205,
+        "Singapore": -0.1532,
+        "Abu Dhabi": -0.0097,
+        "Italian": -0.3041,
+        "Hungary": -0.5161,
+        "Austria": -0.0162,
+        "Spa": 0.0135,
+        "Japan": 0.1113,
+        "Mexico": 0.1175,
+        "Brazil": -0.1113,
+        "Las Vegas": -0.1642
+      }
+    },
+    {
+      "Tg_C": 38,
+      "total_advantage": -1.3077,
+      "circuits": {
+        "Bahrain": -0.2037,
+        "Monaco": 0.0241,
+        "British": -0.0261,
+        "Singapore": -0.0034,
+        "Abu Dhabi": -0.0167,
+        "Italian": 0.0159,
+        "Hungary": -0.1264,
+        "Austria": -0.0162,
+        "Spa": -0.2885,
+        "Japan": -0.0255,
+        "Mexico": -0.0818,
+        "Brazil": -0.0076,
+        "Las Vegas": -0.5518
+      }
+    },
+    {
+      "Tg_C": 25,
+      "total_advantage": -1.3584,
+      "circuits": {
+        "Bahrain": 0.0643,
+        "Monaco": -0.3785,
+        "British": 0.1138,
+        "Singapore": -0.1812,
+        "Abu Dhabi": -0.028,
+        "Italian": -0.3378,
+        "Hungary": -0.546,
+        "Austria": -0.035,
+        "Spa": 0.0241,
+        "Japan": 0.1037,
+        "Mexico": 0.116,
+        "Brazil": -0.1368,
+        "Las Vegas": -0.1368
+      }
+    },
+    {
+      "Tg_C": 39,
+      "total_advantage": -1.4812,
+      "circuits": {
+        "Bahrain": -0.2363,
+        "Monaco": 0.046,
+        "British": -0.0539,
+        "Singapore": -0.0098,
+        "Abu Dhabi": -0.036,
+        "Italian": 0.0291,
+        "Hungary": -0.0975,
+        "Austria": -0.035,
+        "Spa": -0.322,
+        "Japan": -0.0528,
+        "Mexico": -0.1121,
+        "Brazil": -0.0182,
+        "Las Vegas": -0.5827
+      }
+    },
+    {
+      "Tg_C": 24,
+      "total_advantage": -1.5413,
+      "circuits": {
+        "Bahrain": 0.0668,
+        "Monaco": -0.4108,
+        "British": 0.104,
+        "Singapore": -0.2107,
+        "Abu Dhabi": -0.0487,
+        "Italian": -0.3715,
+        "Hungary": -0.5748,
+        "Austria": -0.0562,
+        "Spa": 0.0317,
+        "Japan": 0.0931,
+        "Mexico": 0.1113,
+        "Brazil": -0.1642,
+        "Las Vegas": -0.1113
+      }
+    },
+    {
+      "Tg_C": 40,
+      "total_advantage": -1.6763,
+      "circuits": {
+        "Bahrain": -0.2694,
+        "Monaco": 0.0655,
+        "British": -0.0833,
+        "Singapore": -0.0192,
+        "Abu Dhabi": -0.0577,
+        "Italian": 0.0394,
+        "Hungary": -0.0702,
+        "Austria": -0.0562,
+        "Spa": -0.3556,
+        "Japan": -0.0818,
+        "Mexico": -0.1435,
+        "Brazil": -0.0317,
+        "Las Vegas": -0.6127
+      }
+    },
+    {
+      "Tg_C": 23,
+      "total_advantage": -1.7465,
+      "circuits": {
+        "Bahrain": 0.0662,
+        "Monaco": -0.4424,
+        "British": 0.0914,
+        "Singapore": -0.2415,
+        "Abu Dhabi": -0.0718,
+        "Italian": -0.405,
+        "Hungary": -0.6025,
+        "Austria": -0.0797,
+        "Spa": 0.0363,
+        "Japan": 0.0797,
+        "Mexico": 0.1037,
+        "Brazil": -0.1931,
+        "Las Vegas": -0.0879
+      }
+    },
+    {
+      "Tg_C": 41,
+      "total_advantage": -1.8917,
+      "circuits": {
+        "Bahrain": -0.303,
+        "Monaco": 0.0825,
+        "British": -0.1139,
+        "Singapore": -0.0316,
+        "Abu Dhabi": -0.0816,
+        "Italian": 0.0467,
+        "Hungary": -0.0447,
+        "Austria": -0.0797,
+        "Spa": -0.3893,
+        "Japan": -0.1121,
+        "Mexico": -0.1758,
+        "Brazil": -0.0479,
+        "Las Vegas": -0.6415
+      }
+    },
+    {
+      "Tg_C": 22,
+      "total_advantage": -1.9725,
+      "circuits": {
+        "Bahrain": 0.0625,
+        "Monaco": -0.473,
+        "British": 0.076,
+        "Singapore": -0.2733,
+        "Abu Dhabi": -0.0969,
+        "Italian": -0.4381,
+        "Hungary": -0.6289,
+        "Austria": -0.1052,
+        "Spa": 0.0378,
+        "Japan": 0.0635,
+        "Mexico": 0.0931,
+        "Brazil": -0.2234,
+        "Las Vegas": -0.0667
+      }
+    },
+    {
+      "Tg_C": 42,
+      "total_advantage": -2.126,
+      "circuits": {
+        "Bahrain": -0.3366,
+        "Monaco": 0.0968,
+        "British": -0.1457,
+        "Singapore": -0.0467,
+        "Abu Dhabi": -0.1075,
+        "Italian": 0.0511,
+        "Hungary": -0.0212,
+        "Austria": -0.1052,
+        "Spa": -0.4227,
+        "Japan": -0.1435,
+        "Mexico": -0.2089,
+        "Brazil": -0.0667,
+        "Las Vegas": -0.6692
+      }
+    },
+    {
+      "Tg_C": 21,
+      "total_advantage": -2.218,
+      "circuits": {
+        "Bahrain": 0.0557,
+        "Monaco": -0.5027,
+        "British": 0.058,
+        "Singapore": -0.3059,
+        "Abu Dhabi": -0.1239,
+        "Italian": -0.4707,
+        "Hungary": -0.654,
+        "Austria": -0.1325,
+        "Spa": 0.0363,
+        "Japan": 0.0447,
+        "Mexico": 0.0797,
+        "Brazil": -0.2549,
+        "Las Vegas": -0.0479
+      }
+    },
+    {
+      "Tg_C": 43,
+      "total_advantage": -2.3775,
+      "circuits": {
+        "Bahrain": -0.3703,
+        "Monaco": 0.1083,
+        "British": -0.1782,
+        "Singapore": -0.0645,
+        "Abu Dhabi": -0.1351,
+        "Italian": 0.0523,
+        "Hungary": 0.0,
+        "Austria": -0.1325,
+        "Spa": -0.4558,
+        "Japan": -0.1758,
+        "Mexico": -0.2423,
+        "Brazil": -0.0879,
+        "Las Vegas": -0.6956
+      }
+    },
+    {
+      "Tg_C": 20,
+      "total_advantage": -2.4813,
+      "circuits": {
+        "Bahrain": 0.046,
+        "Monaco": -0.5312,
+        "British": 0.0375,
+        "Singapore": -0.3391,
+        "Abu Dhabi": -0.1525,
+        "Italian": -0.5025,
+        "Hungary": -0.6778,
+        "Austria": -0.1614,
+        "Spa": 0.0317,
+        "Japan": 0.0235,
+        "Mexico": 0.0635,
+        "Brazil": -0.2872,
+        "Las Vegas": -0.0317
+      }
+    },
+    {
+      "Tg_C": 44,
+      "total_advantage": -2.6447,
+      "circuits": {
+        "Bahrain": -0.4036,
+        "Monaco": 0.1168,
+        "British": -0.2114,
+        "Singapore": -0.0847,
+        "Abu Dhabi": -0.1644,
+        "Italian": 0.0504,
+        "Hungary": 0.0188,
+        "Austria": -0.1614,
+        "Spa": -0.4883,
+        "Japan": -0.2089,
+        "Mexico": -0.276,
+        "Brazil": -0.1113,
+        "Las Vegas": -0.7207
+      }
+    },
+    {
+      "Tg_C": 19,
+      "total_advantage": -2.7608,
+      "circuits": {
+        "Bahrain": 0.0334,
+        "Monaco": -0.5585,
+        "British": 0.0147,
+        "Singapore": -0.3727,
+        "Abu Dhabi": -0.1825,
+        "Italian": -0.5335,
+        "Hungary": -0.7002,
+        "Austria": -0.1917,
+        "Spa": 0.0241,
+        "Japan": 0.0,
+        "Mexico": 0.0447,
+        "Brazil": -0.3202,
+        "Las Vegas": -0.0182
+      }
+    },
+    {
+      "Tg_C": 45,
+      "total_advantage": -2.926,
+      "circuits": {
+        "Bahrain": -0.4366,
+        "Monaco": 0.1223,
+        "British": -0.2449,
+        "Singapore": -0.1073,
+        "Abu Dhabi": -0.1949,
+        "Italian": 0.0455,
+        "Hungary": 0.035,
+        "Austria": -0.1917,
+        "Spa": -0.5201,
+        "Japan": -0.2423,
+        "Mexico": -0.3096,
+        "Brazil": -0.1368,
+        "Las Vegas": -0.7445
+      }
+    },
+    {
+      "Tg_C": 18,
+      "total_advantage": -3.0547,
+      "circuits": {
+        "Bahrain": 0.018,
+        "Monaco": -0.5845,
+        "British": -0.0102,
+        "Singapore": -0.4064,
+        "Abu Dhabi": -0.2138,
+        "Italian": -0.5636,
+        "Hungary": -0.7212,
+        "Austria": -0.2232,
+        "Spa": 0.0135,
+        "Japan": -0.0255,
+        "Mexico": 0.0235,
+        "Brazil": -0.3537,
+        "Las Vegas": -0.0076
+      }
+    },
+    {
+      "Tg_C": 46,
+      "total_advantage": -3.2196,
+      "circuits": {
+        "Bahrain": -0.4689,
+        "Monaco": 0.1248,
+        "British": -0.2786,
+        "Singapore": -0.132,
+        "Abu Dhabi": -0.2265,
+        "Italian": 0.0376,
+        "Hungary": 0.0484,
+        "Austria": -0.2232,
+        "Spa": -0.551,
+        "Japan": -0.276,
+        "Mexico": -0.3431,
+        "Brazil": -0.1642,
+        "Las Vegas": -0.7669
+      }
+    },
+    {
+      "Tg_C": 17,
+      "total_advantage": -3.3613,
+      "circuits": {
+        "Bahrain": 0.0,
+        "Monaco": -0.6092,
+        "British": -0.037,
+        "Singapore": -0.44,
+        "Abu Dhabi": -0.246,
+        "Italian": -0.5925,
+        "Hungary": -0.7409,
+        "Austria": -0.2555,
+        "Spa": 0.0,
+        "Japan": -0.0528,
+        "Mexico": 0.0,
+        "Brazil": -0.3873,
+        "Las Vegas": 0.0
+      }
+    },
+    {
+      "Tg_C": 47,
+      "total_advantage": -3.5237,
+      "circuits": {
+        "Bahrain": -0.5004,
+        "Monaco": 0.1242,
+        "British": -0.3123,
+        "Singapore": -0.1586,
+        "Abu Dhabi": -0.259,
+        "Italian": 0.0267,
+        "Hungary": 0.059,
+        "Austria": -0.2555,
+        "Spa": -0.581,
+        "Japan": -0.3096,
+        "Mexico": -0.3762,
+        "Brazil": -0.1931,
+        "Las Vegas": -0.7879
+      }
+    },
+    {
+      "Tg_C": 16,
+      "total_advantage": -3.6786,
+      "circuits": {
+        "Bahrain": -0.0205,
+        "Monaco": -0.6326,
+        "British": -0.0655,
+        "Singapore": -0.4733,
+        "Abu Dhabi": -0.2788,
+        "Italian": -0.6203,
+        "Hungary": -0.7592,
+        "Austria": -0.2885,
+        "Spa": -0.0162,
+        "Japan": -0.0818,
+        "Mexico": -0.0255,
+        "Brazil": -0.421,
+        "Las Vegas": 0.0046
+      }
+    },
+    {
+      "Tg_C": 48,
+      "total_advantage": -3.8367,
+      "circuits": {
+        "Bahrain": -0.531,
+        "Monaco": 0.1205,
+        "British": -0.3456,
+        "Singapore": -0.187,
+        "Abu Dhabi": -0.2922,
+        "Italian": 0.013,
+        "Hungary": 0.0667,
+        "Austria": -0.2885,
+        "Spa": -0.6098,
+        "Japan": -0.3431,
+        "Mexico": -0.4087,
+        "Brazil": -0.2234,
+        "Las Vegas": -0.8076
+      }
+    },
+    {
+      "Tg_C": 15,
+      "total_advantage": -4.0048,
+      "circuits": {
+        "Bahrain": -0.0433,
+        "Monaco": -0.6546,
+        "British": -0.0954,
+        "Singapore": -0.5062,
+        "Abu Dhabi": -0.3122,
+        "Italian": -0.6469,
+        "Hungary": -0.7762,
+        "Austria": -0.322,
+        "Spa": -0.035,
+        "Japan": -0.1121,
+        "Mexico": -0.0528,
+        "Brazil": -0.4544,
+        "Las Vegas": 0.0062
+      }
+    },
+    {
+      "Tg_C": 49,
+      "total_advantage": -4.1569,
+      "circuits": {
+        "Bahrain": -0.5607,
+        "Monaco": 0.1138,
+        "British": -0.3785,
+        "Singapore": -0.2167,
+        "Abu Dhabi": -0.3257,
+        "Italian": -0.0035,
+        "Hungary": 0.0713,
+        "Austria": -0.322,
+        "Spa": -0.6375,
+        "Japan": -0.3762,
+        "Mexico": -0.4405,
+        "Brazil": -0.2549,
+        "Las Vegas": -0.8259
+      }
+    },
+    {
+      "Tg_C": 50,
+      "total_advantage": -4.4824,
+      "circuits": {
+        "Bahrain": -0.5892,
+        "Monaco": 0.104,
+        "British": -0.4108,
+        "Singapore": -0.2478,
+        "Abu Dhabi": -0.3593,
+        "Italian": -0.0225,
+        "Hungary": 0.0728,
+        "Austria": -0.3556,
+        "Spa": -0.6639,
+        "Japan": -0.4087,
+        "Mexico": -0.4714,
+        "Brazil": -0.2872,
+        "Las Vegas": -0.8428
+      }
+    },
+    {
+      "Tg_C": 51,
+      "total_advantage": -4.8117,
+      "circuits": {
+        "Bahrain": -0.6165,
+        "Monaco": 0.0914,
+        "British": -0.4424,
+        "Singapore": -0.2798,
+        "Abu Dhabi": -0.393,
+        "Italian": -0.044,
+        "Hungary": 0.0713,
+        "Austria": -0.3893,
+        "Spa": -0.689,
+        "Japan": -0.4405,
+        "Mexico": -0.5013,
+        "Brazil": -0.3202,
+        "Las Vegas": -0.8585
+      }
+    },
+    {
+      "Tg_C": 52,
+      "total_advantage": -5.1431,
+      "circuits": {
+        "Bahrain": -0.6425,
+        "Monaco": 0.076,
+        "British": -0.473,
+        "Singapore": -0.3125,
+        "Abu Dhabi": -0.4264,
+        "Italian": -0.0677,
+        "Hungary": 0.0667,
+        "Austria": -0.4227,
+        "Spa": -0.7128,
+        "Japan": -0.4714,
+        "Mexico": -0.5302,
+        "Brazil": -0.3537,
+        "Las Vegas": -0.8729
+      }
+    },
+    {
+      "Tg_C": 53,
+      "total_advantage": -5.475,
+      "circuits": {
+        "Bahrain": -0.6672,
+        "Monaco": 0.058,
+        "British": -0.5027,
+        "Singapore": -0.3458,
+        "Abu Dhabi": -0.4593,
+        "Italian": -0.0934,
+        "Hungary": 0.059,
+        "Austria": -0.4558,
+        "Spa": -0.7352,
+        "Japan": -0.5013,
+        "Mexico": -0.5578,
+        "Brazil": -0.3873,
+        "Las Vegas": -0.8861
+      }
+    },
+    {
+      "Tg_C": 54,
+      "total_advantage": -5.806,
+      "circuits": {
+        "Bahrain": -0.6906,
+        "Monaco": 0.0375,
+        "British": -0.5312,
+        "Singapore": -0.3794,
+        "Abu Dhabi": -0.4917,
+        "Italian": -0.1209,
+        "Hungary": 0.0484,
+        "Austria": -0.4883,
+        "Spa": -0.7562,
+        "Japan": -0.5302,
+        "Mexico": -0.5843,
+        "Brazil": -0.421,
+        "Las Vegas": -0.8982
+      }
+    },
+    {
+      "Tg_C": 55,
+      "total_advantage": -6.1346,
+      "circuits": {
+        "Bahrain": -0.7126,
+        "Monaco": 0.0147,
+        "British": -0.5585,
+        "Singapore": -0.4131,
+        "Abu Dhabi": -0.5234,
+        "Italian": -0.1499,
+        "Hungary": 0.035,
+        "Austria": -0.5201,
+        "Spa": -0.7759,
+        "Japan": -0.5578,
+        "Mexico": -0.6094,
+        "Brazil": -0.4544,
+        "Las Vegas": -0.9092
+      }
+    },
+    {
+      "Tg_C": 56,
+      "total_advantage": -6.4595,
+      "circuits": {
+        "Bahrain": -0.7332,
+        "Monaco": -0.0102,
+        "British": -0.5845,
+        "Singapore": -0.4467,
+        "Abu Dhabi": -0.5541,
+        "Italian": -0.1804,
+        "Hungary": 0.0188,
+        "Austria": -0.551,
+        "Spa": -0.7942,
+        "Japan": -0.5843,
+        "Mexico": -0.6331,
+        "Brazil": -0.4875,
+        "Las Vegas": -0.9191
+      }
+    },
+    {
+      "Tg_C": 57,
+      "total_advantage": -6.7795,
+      "circuits": {
+        "Bahrain": -0.7524,
+        "Monaco": -0.037,
+        "British": -0.6092,
+        "Singapore": -0.4799,
+        "Abu Dhabi": -0.5838,
+        "Italian": -0.2119,
+        "Hungary": 0.0,
+        "Austria": -0.581,
+        "Spa": -0.8111,
+        "Japan": -0.6094,
+        "Mexico": -0.6555,
+        "Brazil": -0.52,
+        "Las Vegas": -0.9281
+      }
+    },
+    {
+      "Tg_C": 58,
+      "total_advantage": -7.0934,
+      "circuits": {
+        "Bahrain": -0.7703,
+        "Monaco": -0.0655,
+        "British": -0.6326,
+        "Singapore": -0.5127,
+        "Abu Dhabi": -0.6124,
+        "Italian": -0.2443,
+        "Hungary": -0.0212,
+        "Austria": -0.6098,
+        "Spa": -0.8268,
+        "Japan": -0.6331,
+        "Mexico": -0.6766,
+        "Brazil": -0.5518,
+        "Las Vegas": -0.9362
+      }
+    },
+    {
+      "Tg_C": 59,
+      "total_advantage": -7.4003,
+      "circuits": {
+        "Bahrain": -0.7869,
+        "Monaco": -0.0954,
+        "British": -0.6546,
+        "Singapore": -0.5448,
+        "Abu Dhabi": -0.6399,
+        "Italian": -0.2774,
+        "Hungary": -0.0447,
+        "Austria": -0.6375,
+        "Spa": -0.8412,
+        "Japan": -0.6555,
+        "Mexico": -0.6962,
+        "Brazil": -0.5827,
+        "Las Vegas": -0.9434
+      }
+    },
+    {
+      "Tg_C": 60,
+      "total_advantage": -7.6991,
+      "circuits": {
+        "Bahrain": -0.8022,
+        "Monaco": -0.1265,
+        "British": -0.6752,
+        "Singapore": -0.5761,
+        "Abu Dhabi": -0.666,
+        "Italian": -0.3109,
+        "Hungary": -0.0702,
+        "Austria": -0.6639,
+        "Spa": -0.8545,
+        "Japan": -0.6766,
+        "Mexico": -0.7145,
+        "Brazil": -0.6127,
+        "Las Vegas": -0.9499
+      }
+    },
+    {
+      "Tg_C": 61,
+      "total_advantage": -7.9891,
+      "circuits": {
+        "Bahrain": -0.8162,
+        "Monaco": -0.1586,
+        "British": -0.6944,
+        "Singapore": -0.6064,
+        "Abu Dhabi": -0.6909,
+        "Italian": -0.3445,
+        "Hungary": -0.0975,
+        "Austria": -0.689,
+        "Spa": -0.8665,
+        "Japan": -0.6962,
+        "Mexico": -0.7315,
+        "Brazil": -0.6415,
+        "Las Vegas": -0.9557
+      }
+    },
+    {
+      "Tg_C": 62,
+      "total_advantage": -8.2695,
+      "circuits": {
+        "Bahrain": -0.8291,
+        "Monaco": -0.1915,
+        "British": -0.7123,
+        "Singapore": -0.6357,
+        "Abu Dhabi": -0.7144,
+        "Italian": -0.3782,
+        "Hungary": -0.1264,
+        "Austria": -0.7128,
+        "Spa": -0.8775,
+        "Japan": -0.7145,
+        "Mexico": -0.7472,
+        "Brazil": -0.6692,
+        "Las Vegas": -0.9608
+      }
+    },
+    {
+      "Tg_C": 63,
+      "total_advantage": -8.5398,
+      "circuits": {
+        "Bahrain": -0.8408,
+        "Monaco": -0.2248,
+        "British": -0.7289,
+        "Singapore": -0.6639,
+        "Abu Dhabi": -0.7365,
+        "Italian": -0.4116,
+        "Hungary": -0.1567,
+        "Austria": -0.7352,
+        "Spa": -0.8874,
+        "Japan": -0.7315,
+        "Mexico": -0.7616,
+        "Brazil": -0.6956,
+        "Las Vegas": -0.9653
+      }
+    },
+    {
+      "Tg_C": 64,
+      "total_advantage": -8.7995,
+      "circuits": {
+        "Bahrain": -0.8515,
+        "Monaco": -0.2584,
+        "British": -0.7442,
+        "Singapore": -0.6908,
+        "Abu Dhabi": -0.7572,
+        "Italian": -0.4446,
+        "Hungary": -0.1882,
+        "Austria": -0.7562,
+        "Spa": -0.8964,
+        "Japan": -0.7472,
+        "Mexico": -0.7748,
+        "Brazil": -0.7207,
+        "Las Vegas": -0.9693
+      }
+    },
+    {
+      "Tg_C": 65,
+      "total_advantage": -9.0482,
+      "circuits": {
+        "Bahrain": -0.8612,
+        "Monaco": -0.2921,
+        "British": -0.7582,
+        "Singapore": -0.7164,
+        "Abu Dhabi": -0.7766,
+        "Italian": -0.4771,
+        "Hungary": -0.2205,
+        "Austria": -0.7759,
+        "Spa": -0.9045,
+        "Japan": -0.7616,
+        "Mexico": -0.7869,
+        "Brazil": -0.7445,
+        "Las Vegas": -0.9727
+      }
+    },
+    {
+      "Tg_C": 66,
+      "total_advantage": -9.2856,
+      "circuits": {
+        "Bahrain": -0.8699,
+        "Monaco": -0.3256,
+        "British": -0.7711,
+        "Singapore": -0.7407,
+        "Abu Dhabi": -0.7947,
+        "Italian": -0.5088,
+        "Hungary": -0.2535,
+        "Austria": -0.7942,
+        "Spa": -0.9117,
+        "Japan": -0.7748,
+        "Mexico": -0.7978,
+        "Brazil": -0.7669,
+        "Las Vegas": -0.9758
+      }
+    },
+    {
+      "Tg_C": 67,
+      "total_advantage": -9.5114,
+      "circuits": {
+        "Bahrain": -0.8777,
+        "Monaco": -0.3588,
+        "British": -0.7828,
+        "Singapore": -0.7637,
+        "Abu Dhabi": -0.8114,
+        "Italian": -0.5396,
+        "Hungary": -0.287,
+        "Austria": -0.8111,
+        "Spa": -0.9182,
+        "Japan": -0.7869,
+        "Mexico": -0.8078,
+        "Brazil": -0.7879,
+        "Las Vegas": -0.9784
+      }
+    },
+    {
+      "Tg_C": 68,
+      "total_advantage": -9.7256,
+      "circuits": {
+        "Bahrain": -0.8847,
+        "Monaco": -0.3915,
+        "British": -0.7935,
+        "Singapore": -0.7853,
+        "Abu Dhabi": -0.8268,
+        "Italian": -0.5695,
+        "Hungary": -0.3206,
+        "Austria": -0.8268,
+        "Spa": -0.924,
+        "Japan": -0.7978,
+        "Mexico": -0.8168,
+        "Brazil": -0.8076,
+        "Las Vegas": -0.9807
+      }
+    },
+    {
+      "Tg_C": 69,
+      "total_advantage": -9.9281,
+      "circuits": {
+        "Bahrain": -0.8909,
+        "Monaco": -0.4236,
+        "British": -0.8031,
+        "Singapore": -0.8055,
+        "Abu Dhabi": -0.841,
+        "Italian": -0.5982,
+        "Hungary": -0.3543,
+        "Austria": -0.8412,
+        "Spa": -0.9291,
+        "Japan": -0.8078,
+        "Mexico": -0.8248,
+        "Brazil": -0.8259,
+        "Las Vegas": -0.9827
+      }
+    },
+    {
+      "Tg_C": 70,
+      "total_advantage": -10.119,
+      "circuits": {
+        "Bahrain": -0.8965,
+        "Monaco": -0.4548,
+        "British": -0.8118,
+        "Singapore": -0.8243,
+        "Abu Dhabi": -0.8539,
+        "Italian": -0.6257,
+        "Hungary": -0.3878,
+        "Austria": -0.8545,
+        "Spa": -0.9336,
+        "Japan": -0.8168,
+        "Mexico": -0.8321,
+        "Brazil": -0.8428,
+        "Las Vegas": -0.9845
+      }
+    },
+    {
+      "Tg_C": 71,
+      "total_advantage": -10.2985,
+      "circuits": {
+        "Bahrain": -0.9014,
+        "Monaco": -0.485,
+        "British": -0.8197,
+        "Singapore": -0.8418,
+        "Abu Dhabi": -0.8658,
+        "Italian": -0.652,
+        "Hungary": -0.4208,
+        "Austria": -0.8665,
+        "Spa": -0.9376,
+        "Japan": -0.8248,
+        "Mexico": -0.8386,
+        "Brazil": -0.8585,
+        "Las Vegas": -0.9859
+      }
+    },
+    {
+      "Tg_C": 72,
+      "total_advantage": -10.4666,
+      "circuits": {
+        "Bahrain": -0.9058,
+        "Monaco": -0.5142,
+        "British": -0.8267,
+        "Singapore": -0.858,
+        "Abu Dhabi": -0.8765,
+        "Italian": -0.677,
+        "Hungary": -0.4533,
+        "Austria": -0.8775,
+        "Spa": -0.941,
+        "Japan": -0.8321,
+        "Mexico": -0.8443,
+        "Brazil": -0.8729,
+        "Las Vegas": -0.9872
+      }
+    },
+    {
+      "Tg_C": 73,
+      "total_advantage": -10.6236,
+      "circuits": {
+        "Bahrain": -0.9096,
+        "Monaco": -0.5422,
+        "British": -0.8329,
+        "Singapore": -0.8729,
+        "Abu Dhabi": -0.8863,
+        "Italian": -0.7006,
+        "Hungary": -0.4851,
+        "Austria": -0.8874,
+        "Spa": -0.9441,
+        "Japan": -0.8386,
+        "Mexico": -0.8494,
+        "Brazil": -0.8861,
+        "Las Vegas": -0.9883
+      }
+    },
+    {
+      "Tg_C": 74,
+      "total_advantage": -10.7699,
+      "circuits": {
+        "Bahrain": -0.9129,
+        "Monaco": -0.569,
+        "British": -0.8385,
+        "Singapore": -0.8866,
+        "Abu Dhabi": -0.8951,
+        "Italian": -0.7229,
+        "Hungary": -0.5161,
+        "Austria": -0.8964,
+        "Spa": -0.9467,
+        "Japan": -0.8443,
+        "Mexico": -0.8539,
+        "Brazil": -0.8982,
+        "Las Vegas": -0.9892
+      }
+    }
+  ]
+}

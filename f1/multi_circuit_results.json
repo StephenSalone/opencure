@@ -1,0 +1,104 @@
+[
+  {
+    "circuit": "Monaco",
+    "year": 2024,
+    "track_temp_mean_C": 46.3,
+    "track_temp_range": "40-50\u00b0C",
+    "standard_best_compound": "MEDIUM",
+    "standard_grip": 0.8746,
+    "novel_6PPD_grip": 0.3865,
+    "novel_advantage_pct": -55.8,
+    "fastest_lap": "0 days 00:01:14.165000",
+    "grip_scores": {
+      "SOFT": 0.8385,
+      "MEDIUM": 0.8746,
+      "HARD": 0.2654,
+      "NOVEL": 0.3865
+    }
+  },
+  {
+    "circuit": "Italian",
+    "year": 2023,
+    "track_temp_mean_C": 42.9,
+    "track_temp_range": "39-44\u00b0C",
+    "standard_best_compound": "MEDIUM",
+    "standard_grip": 0.9472,
+    "novel_6PPD_grip": 0.2759,
+    "novel_advantage_pct": -70.9,
+    "fastest_lap": "0 days 00:01:25.072000",
+    "grip_scores": {
+      "SOFT": 0.7367,
+      "MEDIUM": 0.9472,
+      "HARD": 0.3544,
+      "NOVEL": 0.2759
+    }
+  },
+  {
+    "circuit": "Singapore",
+    "year": 2024,
+    "track_temp_mean_C": 36.4,
+    "track_temp_range": "34-38\u00b0C",
+    "standard_best_compound": "MEDIUM",
+    "standard_grip": 0.9995,
+    "novel_6PPD_grip": 0.1256,
+    "novel_advantage_pct": -87.4,
+    "fastest_lap": "0 days 00:01:34.486000",
+    "grip_scores": {
+      "SOFT": 0.521,
+      "MEDIUM": 0.9995,
+      "HARD": 0.5579,
+      "NOVEL": 0.1256
+    }
+  },
+  {
+    "circuit": "Abu Dhabi",
+    "year": 2024,
+    "track_temp_mean_C": 31.8,
+    "track_temp_range": "29-37\u00b0C",
+    "standard_best_compound": "MEDIUM",
+    "standard_grip": 0.9592,
+    "novel_6PPD_grip": 0.0638,
+    "novel_advantage_pct": -93.3,
+    "fastest_lap": "0 days 00:01:25.637000",
+    "grip_scores": {
+      "SOFT": 0.3755,
+      "MEDIUM": 0.9592,
+      "HARD": 0.713,
+      "NOVEL": 0.0638
+    }
+  },
+  {
+    "circuit": "British",
+    "year": 2024,
+    "track_temp_mean_C": 27.7,
+    "track_temp_range": "21-38\u00b0C",
+    "standard_best_compound": "MEDIUM",
+    "standard_grip": 0.8743,
+    "novel_6PPD_grip": 0.0321,
+    "novel_advantage_pct": -96.3,
+    "fastest_lap": "0 days 00:01:28.293000",
+    "grip_scores": {
+      "SOFT": 0.2651,
+      "MEDIUM": 0.8743,
+      "HARD": 0.8389,
+      "NOVEL": 0.0321
+    }
+  },
+  {
+    "circuit": "Bahrain",
+    "year": 2024,
+    "track_temp_mean_C": 23.7,
+    "track_temp_range": "22-26\u00b0C",
+    "standard_best_compound": "HARD",
+    "standard_grip": 0.934,
+    "novel_6PPD_grip": 0.0154,
+    "novel_advantage_pct": -98.4,
+    "fastest_lap": "0 days 00:01:32.608000",
+    "grip_scores": {
+      "SOFT": 0.1798,
+      "MEDIUM": 0.7596,
+      "HARD": 0.934,
+      "NOVEL": 0.0154
+    }
+  }
+]
