@@ -1,0 +1,65 @@
+{
+  "Bahrain": {
+    "baseline": 172.751,
+    "best": 137.887,
+    "improvement": 34.863,
+    "race_gain": 1987.2,
+    "compound": "NOVA32",
+    "valid_sims": 2000,
+    "real_fastest": 92.608,
+    "vs_real_winner": "slower",
+    "delta_vs_real": 45.279,
+    "setup": {
+      "wd": 0.4785,
+      "rhf": 0.0331,
+      "rhr": 0.0743,
+      "cb": 0.6095,
+      "ers": 0.4565,
+      "aat": 98.1611,
+      "fuel": 80.3039,
+      "dif": 0.9849
+    }
+  },
+  "British": {
+    "baseline": 161.078,
+    "best": 137.661,
+    "improvement": 23.417,
+    "race_gain": 1217.7,
+    "compound": "MEDIUM",
+    "valid_sims": 2000,
+    "real_fastest": 88.293,
+    "vs_real_winner": "slower",
+    "delta_vs_real": 49.368,
+    "setup": {
+      "wd": 0.4785,
+      "rhf": 0.0331,
+      "rhr": 0.0743,
+      "cb": 0.6095,
+      "ers": 0.4565,
+      "aat": 98.1611,
+      "fuel": 80.3039,
+      "dif": 0.9849
+    }
+  },
+  "Monaco": {
+    "baseline": 166.927,
+    "best": 133.836,
+    "improvement": 33.091,
+    "race_gain": 2581.1,
+    "compound": "SOFT",
+    "valid_sims": 2000,
+    "real_fastest": 74.165,
+    "vs_real_winner": "slower",
+    "delta_vs_real": 59.671,
+    "setup": {
+      "wd": 0.4785,
+      "rhf": 0.0331,
+      "rhr": 0.0743,
+      "cb": 0.6095,
+      "ers": 0.4565,
+      "aat": 98.1611,
+      "fuel": 80.3039,
+      "dif": 0.9849
+    }
+  }
+}

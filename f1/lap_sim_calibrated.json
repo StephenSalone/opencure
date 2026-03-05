@@ -1,0 +1,68 @@
+{
+  "Bahrain": {
+    "real_fastest_sec": 92.608,
+    "real_driver": "slower",
+    "calibrated_best_sec": 73.918,
+    "calibrated_baseline_sec": 92.608,
+    "improvement_per_lap_sec": 18.69,
+    "improvement_full_race_sec": 1065.3,
+    "vs_real_winner": "FASTER",
+    "delta_vs_real_sec": 18.69,
+    "best_compound": "NOVA32",
+    "best_setup": {
+      "wd": 0.4785,
+      "rhf": 0.0331,
+      "rhr": 0.0743,
+      "cb": 0.6095,
+      "ers": 0.4565,
+      "aat": 98.1611,
+      "fuel": 80.3039,
+      "dif": 0.9849
+    },
+    "calibration_factor": 0.5361
+  },
+  "British": {
+    "real_fastest_sec": 88.293,
+    "real_driver": "slower",
+    "calibrated_best_sec": 75.457,
+    "calibrated_baseline_sec": 88.293,
+    "improvement_per_lap_sec": 12.836,
+    "improvement_full_race_sec": 667.5,
+    "vs_real_winner": "FASTER",
+    "delta_vs_real_sec": 12.836,
+    "best_compound": "MEDIUM",
+    "best_setup": {
+      "wd": 0.4785,
+      "rhf": 0.0331,
+      "rhr": 0.0743,
+      "cb": 0.6095,
+      "ers": 0.4565,
+      "aat": 98.1611,
+      "fuel": 80.3039,
+      "dif": 0.9849
+    },
+    "calibration_factor": 0.5481
+  },
+  "Monaco": {
+    "real_fastest_sec": 74.165,
+    "real_driver": "slower",
+    "calibrated_best_sec": 59.463,
+    "calibrated_baseline_sec": 74.165,
+    "improvement_per_lap_sec": 14.702,
+    "improvement_full_race_sec": 1146.8,
+    "vs_real_winner": "FASTER",
+    "delta_vs_real_sec": 14.702,
+    "best_compound": "SOFT",
+    "best_setup": {
+      "wd": 0.4785,
+      "rhf": 0.0331,
+      "rhr": 0.0743,
+      "cb": 0.6095,
+      "ers": 0.4565,
+      "aat": 98.1611,
+      "fuel": 80.3039,
+      "dif": 0.9849
+    },
+    "calibration_factor": 0.4443
+  }
+}
