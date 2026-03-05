@@ -1,0 +1,43 @@
+{
+  "nova": {
+    "Bahrain": {
+      "raw": 109.99308077437888,
+      "cal": 92.608,
+      "factor": 0.8419438690871867,
+      "compound": "SOFT"
+    },
+    "British": {
+      "raw": 119.99540183974307,
+      "cal": 88.293,
+      "factor": 0.7358031945083826,
+      "compound": "SOFT"
+    },
+    "Monaco": {
+      "raw": 125.92108116449243,
+      "cal": 74.165,
+      "factor": 0.5889800128313483,
+      "compound": "SOFT"
+    }
+  },
+  "grok": {
+    "Bahrain": {
+      "raw": 109.84067494866176,
+      "cal": 92.608,
+      "factor": 0.8431120806867209,
+      "compound": "MEDIUM"
+    },
+    "British": {
+      "raw": 123.85960624172888,
+      "cal": 88.293,
+      "factor": 0.7128474139315782,
+      "compound": "SOFT"
+    },
+    "Monaco": {
+      "raw": 99.13508862641432,
+      "cal": 74.165,
+      "factor": 0.7481205799844205,
+      "compound": "SOFT"
+    }
+  },
+  "winner": "grok"
+}
