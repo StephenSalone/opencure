@@ -1,0 +1,602 @@
+{
+  "Bahrain": {
+    "real_sec": 92.608,
+    "calibrated": 92.608,
+    "cf": 1.001396,
+    "best_compound": "SOFT",
+    "track_temp": 23.7,
+    "race_laps": 57,
+    "compound_best": {
+      "SOFT": 92.608,
+      "MEDIUM": 92.641,
+      "HARD": 92.658,
+      "NOVA32": 92.652
+    },
+    "best_setup": {
+      "wd": 0.46035,
+      "rhf": 0.04805,
+      "rhr": 0.10298,
+      "cb": 0.6175,
+      "ers": 0.75534,
+      "aat": 24.23997,
+      "fuel": 95.62557,
+      "dif": 0.81141
+    },
+    "elapsed": 1.4
+  },
+  "Saudi Arabia": {
+    "real_sec": 91.632,
+    "calibrated": 91.632,
+    "cf": 1.000879,
+    "best_compound": "SOFT",
+    "track_temp": 31.6,
+    "race_laps": 50,
+    "compound_best": {
+      "SOFT": 91.632,
+      "MEDIUM": 91.667,
+      "HARD": 91.688,
+      "NOVA32": 91.681
+    },
+    "best_setup": {
+      "wd": 0.44088,
+      "rhf": 0.04767,
+      "rhr": 0.07436,
+      "cb": 0.54228,
+      "ers": 0.99551,
+      "aat": 18.66432,
+      "fuel": 101.91912,
+      "dif": 0.72674
+    },
+    "elapsed": 1.3
+  },
+  "Australian": {
+    "real_sec": 79.813,
+    "calibrated": 79.813,
+    "cf": 1.001757,
+    "best_compound": "SOFT",
+    "track_temp": 38.4,
+    "race_laps": 58,
+    "compound_best": {
+      "SOFT": 79.813,
+      "MEDIUM": 79.841,
+      "HARD": 79.857,
+      "NOVA32": 79.852
+    },
+    "best_setup": {
+      "wd": 0.46035,
+      "rhf": 0.04805,
+      "rhr": 0.10298,
+      "cb": 0.6175,
+      "ers": 0.75534,
+      "aat": 24.23997,
+      "fuel": 95.62557,
+      "dif": 0.81141
+    },
+    "elapsed": 1.5
+  },
+  "Japanese": {
+    "real_sec": 93.706,
+    "calibrated": 93.706,
+    "cf": 1.00044,
+    "best_compound": "SOFT",
+    "track_temp": 37.5,
+    "race_laps": 53,
+    "compound_best": {
+      "SOFT": 93.706,
+      "MEDIUM": 93.725,
+      "HARD": 93.737,
+      "NOVA32": 93.732
+    },
+    "best_setup": {
+      "wd": 0.47886,
+      "rhf": 0.04046,
+      "rhr": 0.07901,
+      "cb": 0.59531,
+      "ers": 0.76162,
+      "aat": 14.11187,
+      "fuel": 91.68323,
+      "dif": 0.87145
+    },
+    "elapsed": 1.8
+  },
+  "Chinese": {
+    "real_sec": 97.81,
+    "calibrated": 97.81,
+    "cf": 1.000971,
+    "best_compound": "SOFT",
+    "track_temp": 29.8,
+    "race_laps": 56,
+    "compound_best": {
+      "SOFT": 97.81,
+      "MEDIUM": 97.839,
+      "HARD": 97.855,
+      "NOVA32": 97.85
+    },
+    "best_setup": {
+      "wd": 0.46886,
+      "rhf": 0.02652,
+      "rhr": 0.09803,
+      "cb": 0.55016,
+      "ers": 0.78691,
+      "aat": 22.04485,
+      "fuel": 103.8872,
+      "dif": 0.51846
+    },
+    "elapsed": 2.7
+  },
+  "Miami": {
+    "real_sec": 90.634,
+    "calibrated": 90.634,
+    "cf": 1.001231,
+    "best_compound": "SOFT",
+    "track_temp": 44.7,
+    "race_laps": 57,
+    "compound_best": {
+      "SOFT": 90.634,
+      "MEDIUM": 90.671,
+      "HARD": 90.693,
+      "NOVA32": 90.686
+    },
+    "best_setup": {
+      "wd": 0.4467,
+      "rhf": 0.02761,
+      "rhr": 0.09182,
+      "cb": 0.59652,
+      "ers": 0.32211,
+      "aat": 28.22405,
+      "fuel": 81.29928,
+      "dif": 0.77065
+    },
+    "elapsed": 2.7
+  },
+  "Emilia Romagna": {
+    "real_sec": 78.589,
+    "calibrated": 78.589,
+    "cf": 1.000804,
+    "best_compound": "SOFT",
+    "track_temp": 42.0,
+    "race_laps": 63,
+    "compound_best": {
+      "SOFT": 78.589,
+      "MEDIUM": 78.613,
+      "HARD": 78.627,
+      "NOVA32": 78.621
+    },
+    "best_setup": {
+      "wd": 0.45181,
+      "rhf": 0.03566,
+      "rhr": 0.07409,
+      "cb": 0.57568,
+      "ers": 0.30356,
+      "aat": 18.54261,
+      "fuel": 91.13235,
+      "dif": 0.81612
+    },
+    "elapsed": 2.6
+  },
+  "Monaco": {
+    "real_sec": 74.165,
+    "calibrated": 74.165,
+    "cf": 1.000978,
+    "best_compound": "SOFT",
+    "track_temp": 46.3,
+    "race_laps": 78,
+    "compound_best": {
+      "SOFT": 74.165,
+      "MEDIUM": 74.181,
+      "HARD": 74.191,
+      "NOVA32": 74.187
+    },
+    "best_setup": {
+      "wd": 0.46441,
+      "rhf": 0.04442,
+      "rhr": 0.08758,
+      "cb": 0.54477,
+      "ers": 0.79409,
+      "aat": 19.76226,
+      "fuel": 88.00713,
+      "dif": 0.99584
+    },
+    "elapsed": 2.4
+  },
+  "Canadian": {
+    "real_sec": 74.856,
+    "calibrated": 74.856,
+    "cf": 1.002075,
+    "best_compound": "SOFT",
+    "track_temp": 24.6,
+    "race_laps": 70,
+    "compound_best": {
+      "SOFT": 74.856,
+      "MEDIUM": 74.877,
+      "HARD": 74.887,
+      "NOVA32": 74.884
+    },
+    "best_setup": {
+      "wd": 0.46281,
+      "rhf": 0.02634,
+      "rhr": 0.06702,
+      "cb": 0.5898,
+      "ers": 0.44548,
+      "aat": 21.61227,
+      "fuel": 93.62204,
+      "dif": 0.64175
+    },
+    "elapsed": 2.6
+  },
+  "Spanish": {
+    "real_sec": 77.115,
+    "calibrated": 77.115,
+    "cf": 1.001087,
+    "best_compound": "SOFT",
+    "track_temp": 41.1,
+    "race_laps": 66,
+    "compound_best": {
+      "SOFT": 77.115,
+      "MEDIUM": 77.137,
+      "HARD": 77.152,
+      "NOVA32": 77.145
+    },
+    "best_setup": {
+      "wd": 0.46281,
+      "rhf": 0.02634,
+      "rhr": 0.06702,
+      "cb": 0.5898,
+      "ers": 0.44548,
+      "aat": 21.61227,
+      "fuel": 93.62204,
+      "dif": 0.64175
+    },
+    "elapsed": 2.6
+  },
+  "Austrian": {
+    "real_sec": 67.694,
+    "calibrated": 67.694,
+    "cf": 1.000691,
+    "best_compound": "SOFT",
+    "track_temp": 46.4,
+    "race_laps": 71,
+    "compound_best": {
+      "SOFT": 67.694,
+      "MEDIUM": 67.714,
+      "HARD": 67.728,
+      "NOVA32": 67.721
+    },
+    "best_setup": {
+      "wd": 0.47886,
+      "rhf": 0.04046,
+      "rhr": 0.07901,
+      "cb": 0.59531,
+      "ers": 0.76162,
+      "aat": 14.11187,
+      "fuel": 91.68323,
+      "dif": 0.87145
+    },
+    "elapsed": 2.6
+  },
+  "British": {
+    "real_sec": 88.293,
+    "calibrated": 88.293,
+    "cf": 1.000668,
+    "best_compound": "SOFT",
+    "track_temp": 27.7,
+    "race_laps": 52,
+    "compound_best": {
+      "SOFT": 88.293,
+      "MEDIUM": 88.324,
+      "HARD": 88.344,
+      "NOVA32": 88.337
+    },
+    "best_setup": {
+      "wd": 0.46886,
+      "rhf": 0.02652,
+      "rhr": 0.09803,
+      "cb": 0.55016,
+      "ers": 0.78691,
+      "aat": 22.04485,
+      "fuel": 103.8872,
+      "dif": 0.51846
+    },
+    "elapsed": 2.5
+  },
+  "Hungarian": {
+    "real_sec": 80.305,
+    "calibrated": 80.305,
+    "cf": 1.000389,
+    "best_compound": "SOFT",
+    "track_temp": 44.9,
+    "race_laps": 70,
+    "compound_best": {
+      "SOFT": 80.305,
+      "MEDIUM": 80.327,
+      "HARD": 80.341,
+      "NOVA32": 80.335
+    },
+    "best_setup": {
+      "wd": 0.45504,
+      "rhf": 0.03486,
+      "rhr": 0.08297,
+      "cb": 0.6028,
+      "ers": 0.92446,
+      "aat": 28.51662,
+      "fuel": 99.67258,
+      "dif": 0.6577
+    },
+    "elapsed": 2.6
+  },
+  "Belgian": {
+    "real_sec": 104.701,
+    "calibrated": 104.701,
+    "cf": 1.001523,
+    "best_compound": "SOFT",
+    "track_temp": 42.3,
+    "race_laps": 44,
+    "compound_best": {
+      "SOFT": 104.701,
+      "MEDIUM": 104.74,
+      "HARD": 104.775,
+      "NOVA32": 104.761
+    },
+    "best_setup": {
+      "wd": 0.4406,
+      "rhf": 0.02813,
+      "rhr": 0.07183,
+      "cb": 0.59424,
+      "ers": 0.70372,
+      "aat": 25.49173,
+      "fuel": 98.5152,
+      "dif": 0.92659
+    },
+    "elapsed": 2.7
+  },
+  "Dutch": {
+    "real_sec": 73.817,
+    "calibrated": 73.817,
+    "cf": 1.001637,
+    "best_compound": "SOFT",
+    "track_temp": 30.8,
+    "race_laps": 72,
+    "compound_best": {
+      "SOFT": 73.817,
+      "MEDIUM": 73.843,
+      "HARD": 73.856,
+      "NOVA32": 73.852
+    },
+    "best_setup": {
+      "wd": 0.46281,
+      "rhf": 0.02634,
+      "rhr": 0.06702,
+      "cb": 0.5898,
+      "ers": 0.44548,
+      "aat": 21.61227,
+      "fuel": 93.62204,
+      "dif": 0.64175
+    },
+    "elapsed": 2.8
+  },
+  "Italian": {
+    "real_sec": 81.432,
+    "calibrated": 81.432,
+    "cf": 1.000516,
+    "best_compound": "SOFT",
+    "track_temp": 49.3,
+    "race_laps": 53,
+    "compound_best": {
+      "SOFT": 81.432,
+      "MEDIUM": 81.454,
+      "HARD": 81.47,
+      "NOVA32": 81.464
+    },
+    "best_setup": {
+      "wd": 0.45348,
+      "rhf": 0.04093,
+      "rhr": 0.08678,
+      "cb": 0.58768,
+      "ers": 0.63038,
+      "aat": 18.14938,
+      "fuel": 103.82063,
+      "dif": 0.5432
+    },
+    "elapsed": 2.6
+  },
+  "Azerbaijan": {
+    "real_sec": 105.255,
+    "calibrated": 105.255,
+    "cf": 0.999707,
+    "best_compound": "SOFT",
+    "track_temp": 44.3,
+    "race_laps": 51,
+    "compound_best": {
+      "SOFT": 105.255,
+      "MEDIUM": 105.289,
+      "HARD": 105.311,
+      "NOVA32": 105.302
+    },
+    "best_setup": {
+      "wd": 0.46281,
+      "rhf": 0.02634,
+      "rhr": 0.06702,
+      "cb": 0.5898,
+      "ers": 0.44548,
+      "aat": 21.61227,
+      "fuel": 93.62204,
+      "dif": 0.64175
+    },
+    "elapsed": 2.6
+  },
+  "Singapore": {
+    "real_sec": 94.486,
+    "calibrated": 94.486,
+    "cf": 1.001316,
+    "best_compound": "SOFT",
+    "track_temp": 36.4,
+    "race_laps": 62,
+    "compound_best": {
+      "SOFT": 94.486,
+      "MEDIUM": 94.521,
+      "HARD": 94.54,
+      "NOVA32": 94.533
+    },
+    "best_setup": {
+      "wd": 0.46035,
+      "rhf": 0.04805,
+      "rhr": 0.10298,
+      "cb": 0.6175,
+      "ers": 0.75534,
+      "aat": 24.23997,
+      "fuel": 95.62557,
+      "dif": 0.81141
+    },
+    "elapsed": 2.5
+  },
+  "United States": {
+    "real_sec": 97.33,
+    "calibrated": 97.33,
+    "cf": 1.001425,
+    "best_compound": "SOFT",
+    "track_temp": 46.6,
+    "race_laps": 56,
+    "compound_best": {
+      "SOFT": 97.33,
+      "MEDIUM": 97.366,
+      "HARD": 97.386,
+      "NOVA32": 97.38
+    },
+    "best_setup": {
+      "wd": 0.46281,
+      "rhf": 0.02634,
+      "rhr": 0.06702,
+      "cb": 0.5898,
+      "ers": 0.44548,
+      "aat": 21.61227,
+      "fuel": 93.62204,
+      "dif": 0.64175
+    },
+    "elapsed": 1.4
+  },
+  "Mexico City": {
+    "real_sec": 78.336,
+    "calibrated": 78.336,
+    "cf": 1.001741,
+    "best_compound": "SOFT",
+    "track_temp": 35.6,
+    "race_laps": 71,
+    "compound_best": {
+      "SOFT": 78.336,
+      "MEDIUM": 78.353,
+      "HARD": 78.365,
+      "NOVA32": 78.359
+    },
+    "best_setup": {
+      "wd": 0.46441,
+      "rhf": 0.04442,
+      "rhr": 0.08758,
+      "cb": 0.54477,
+      "ers": 0.79409,
+      "aat": 19.76226,
+      "fuel": 88.00713,
+      "dif": 0.99584
+    },
+    "elapsed": 2.6
+  },
+  "S\u00e3o Paulo": {
+    "real_sec": 80.472,
+    "calibrated": 80.472,
+    "cf": 1.000308,
+    "best_compound": "SOFT",
+    "track_temp": 25.8,
+    "race_laps": 71,
+    "compound_best": {
+      "SOFT": 80.472,
+      "MEDIUM": 80.501,
+      "HARD": 80.517,
+      "NOVA32": 80.512
+    },
+    "best_setup": {
+      "wd": 0.47664,
+      "rhf": 0.03938,
+      "rhr": 0.06675,
+      "cb": 0.5838,
+      "ers": 0.42668,
+      "aat": 25.64282,
+      "fuel": 104.17936,
+      "dif": 0.68041
+    },
+    "elapsed": 2.7
+  },
+  "Las Vegas": {
+    "real_sec": 94.876,
+    "calibrated": 94.876,
+    "cf": 1.001423,
+    "best_compound": "SOFT",
+    "track_temp": 17.7,
+    "race_laps": 50,
+    "compound_best": {
+      "SOFT": 94.876,
+      "MEDIUM": 94.914,
+      "HARD": 94.936,
+      "NOVA32": 94.929
+    },
+    "best_setup": {
+      "wd": 0.46035,
+      "rhf": 0.04805,
+      "rhr": 0.10298,
+      "cb": 0.6175,
+      "ers": 0.75534,
+      "aat": 24.23997,
+      "fuel": 95.62557,
+      "dif": 0.81141
+    },
+    "elapsed": 2.6
+  },
+  "Qatar": {
+    "real_sec": 82.384,
+    "calibrated": 82.384,
+    "cf": 1.001146,
+    "best_compound": "SOFT",
+    "track_temp": 22.8,
+    "race_laps": 57,
+    "compound_best": {
+      "SOFT": 82.384,
+      "MEDIUM": 82.411,
+      "HARD": 82.429,
+      "NOVA32": 82.423
+    },
+    "best_setup": {
+      "wd": 0.46281,
+      "rhf": 0.02634,
+      "rhr": 0.06702,
+      "cb": 0.5898,
+      "ers": 0.44548,
+      "aat": 21.61227,
+      "fuel": 93.62204,
+      "dif": 0.64175
+    },
+    "elapsed": 2.7
+  },
+  "Abu Dhabi": {
+    "real_sec": 85.637,
+    "calibrated": 85.637,
+    "cf": 1.001872,
+    "best_compound": "SOFT",
+    "track_temp": 31.8,
+    "race_laps": 58,
+    "compound_best": {
+      "SOFT": 85.637,
+      "MEDIUM": 85.672,
+      "HARD": 85.694,
+      "NOVA32": 85.686
+    },
+    "best_setup": {
+      "wd": 0.46035,
+      "rhf": 0.04805,
+      "rhr": 0.10298,
+      "cb": 0.6175,
+      "ers": 0.75534,
+      "aat": 24.23997,
+      "fuel": 95.62557,
+      "dif": 0.81141
+    },
+    "elapsed": 2.7
+  }
+}
