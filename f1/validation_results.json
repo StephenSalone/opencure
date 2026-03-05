@@ -1,0 +1,306 @@
+{
+  "rules": {
+    "sustainable_sources": [
+      "carbon capture",
+      "municipal waste",
+      "non-food biomass",
+      "lignocellulosic biomass",
+      "agricultural residues"
+    ],
+    "allowed_compound_classes": [
+      "alcohols",
+      "aromatics",
+      "ethers",
+      "esters",
+      "cyclic hydrocarbons",
+      "terpenes",
+      "furans"
+    ],
+    "banned": [
+      "metallic additives (MMT, ferrocene)",
+      "nitrogen-containing compounds as fuel components",
+      "fossil-derived hydrocarbons",
+      "lead compounds"
+    ],
+    "oxygen_limit_pct": 3.7,
+    "density_range": [
+      0.72,
+      0.775
+    ],
+    "rog_min": 95,
+    "ers_max_power_kw": 350,
+    "ers_max_energy_per_lap_mj": 9.0,
+    "battery_min_voltage": 400,
+    "battery_max_voltage": 900
+  },
+  "fuel_compliance": [
+    {
+      "name": "methylnaphthalene",
+      "description": "Heavy aromatic, top scorer",
+      "compliant": true,
+      "o_content_pct": 0.0,
+      "issues": [],
+      "flags": [
+        "CAUTION: can be bio-derived but verify source \u26a0\ufe0f"
+      ]
+    },
+    {
+      "name": "pinene_alpha",
+      "description": "Terpene - bio aviation fuel",
+      "compliant": true,
+      "o_content_pct": 0.0,
+      "issues": [],
+      "flags": [
+        "BIO: terpene/furan - biomass derivable \u2705"
+      ]
+    },
+    {
+      "name": "mesitylene",
+      "description": "1,3,5-trimethylbenzene",
+      "compliant": true,
+      "o_content_pct": 0.0,
+      "issues": [],
+      "flags": [
+        "CAUTION: can be bio-derived but verify source \u26a0\ufe0f"
+      ]
+    },
+    {
+      "name": "dimethylfuran_DMF",
+      "description": "DMF - exceptional bio-fuel",
+      "compliant": true,
+      "o_content_pct": 16.64,
+      "issues": [
+        "O content 16.6% > FIA limit 3.7%"
+      ],
+      "flags": [
+        "BIO: terpene/furan - biomass derivable \u2705"
+      ]
+    },
+    {
+      "name": "ethanol",
+      "description": "Reference bio-fuel",
+      "compliant": true,
+      "o_content_pct": 34.73,
+      "issues": [
+        "O content 34.7% > FIA limit 3.7%"
+      ],
+      "flags": [
+        "BIO: established bio-fuel \u2705"
+      ]
+    },
+    {
+      "name": "isooctane",
+      "description": "Reference 100 octane",
+      "compliant": true,
+      "o_content_pct": 0.0,
+      "issues": [],
+      "flags": []
+    }
+  ],
+  "fuel_md": {
+    "methylnaphthalene": {
+      "energies": {
+        "300": {
+          "PE": 18.055,
+          "KE": 19.44,
+          "Total": 37.495
+        },
+        "600": {
+          "PE": 33.798,
+          "KE": 19.188,
+          "Total": 52.987
+        },
+        "900": {
+          "PE": 41.06,
+          "KE": 25.521,
+          "Total": 66.58
+        }
+      },
+      "delta_PE_kcal": -23.01,
+      "specific_energy_proxy": -161.78
+    },
+    "pinene_alpha": {
+      "energies": {
+        "300": {
+          "PE": 40.49,
+          "KE": 18.721,
+          "Total": 59.211
+        },
+        "600": {
+          "PE": 63.439,
+          "KE": 41.756,
+          "Total": 105.194
+        },
+        "900": {
+          "PE": 76.585,
+          "KE": 52.57,
+          "Total": 129.155
+        }
+      },
+      "delta_PE_kcal": -36.09,
+      "specific_energy_proxy": -264.94
+    },
+    "mesitylene": {
+      "energies": {
+        "300": {
+          "PE": 2.528,
+          "KE": 17.81,
+          "Total": 20.338
+        },
+        "600": {
+          "PE": 19.465,
+          "KE": 55.819,
+          "Total": 75.284
+        },
+        "900": {
+          "PE": 22.199,
+          "KE": 41.088,
+          "Total": 63.287
+        }
+      },
+      "delta_PE_kcal": -19.67,
+      "specific_energy_proxy": -163.66
+    },
+    "dimethylfuran_DMF": {
+      "energies": {
+        "300": {
+          "PE": 0.66,
+          "KE": 13.738,
+          "Total": 14.398
+        },
+        "600": {
+          "PE": 11.669,
+          "KE": 21.808,
+          "Total": 33.476
+        },
+        "900": {
+          "PE": 13.637,
+          "KE": 28.417,
+          "Total": 42.055
+        }
+      },
+      "delta_PE_kcal": -12.98,
+      "specific_energy_proxy": -135.0
+    },
+    "ethanol": {
+      "energies": {
+        "300": {
+          "PE": 6.469,
+          "KE": 2.756,
+          "Total": 9.225
+        },
+        "600": {
+          "PE": 9.946,
+          "KE": 7.108,
+          "Total": 17.054
+        },
+        "900": {
+          "PE": 19.123,
+          "KE": 17.86,
+          "Total": 36.983
+        }
+      },
+      "delta_PE_kcal": -12.65,
+      "specific_energy_proxy": -274.67
+    },
+    "isooctane": {
+      "energies": {
+        "300": {
+          "PE": 27.97,
+          "KE": 18.984,
+          "Total": 46.954
+        },
+        "600": {
+          "PE": 42.048,
+          "KE": 34.666,
+          "Total": 76.715
+        },
+        "900": {
+          "PE": 69.954,
+          "KE": 58.081,
+          "Total": 128.034
+        }
+      },
+      "delta_PE_kcal": -41.98,
+      "specific_energy_proxy": -367.53
+    }
+  },
+  "electrolyte_md": {
+    "LATP_NASICON_proxy": {
+      "description": "NASICON-type ceramic",
+      "mobility_data": {
+        "300": {
+          "MSD": 0.025174,
+          "PE": -262.42
+        },
+        "400": {
+          "MSD": 0.025856,
+          "PE": -262.22
+        },
+        "500": {
+          "MSD": 0.025839,
+          "PE": -260.6
+        }
+      },
+      "Ea_activation_kJ": 0.17,
+      "conductivity_rank": "HIGH"
+    },
+    "PEO_polymer": {
+      "description": "Polyethylene oxide",
+      "mobility_data": {
+        "300": {
+          "MSD": 0.048364,
+          "PE": 12.57
+        },
+        "400": {
+          "MSD": 0.048029,
+          "PE": 13.24
+        },
+        "500": {
+          "MSD": 0.046731,
+          "PE": 15.97
+        }
+      },
+      "Ea_activation_kJ": 0.2,
+      "conductivity_rank": "HIGH"
+    },
+    "succinonitrile": {
+      "description": "Plastic crystal",
+      "mobility_data": {
+        "300": {
+          "MSD": 0.034211,
+          "PE": -7.12
+        },
+        "400": {
+          "MSD": 0.03431,
+          "PE": -7.16
+        },
+        "500": {
+          "MSD": 0.034093,
+          "PE": -7.17
+        }
+      },
+      "Ea_activation_kJ": 0.02,
+      "conductivity_rank": "HIGH"
+    },
+    "glutaronitrile": {
+      "description": "Longer chain nitrile",
+      "mobility_data": {
+        "300": {
+          "MSD": 0.044786,
+          "PE": -0.55
+        },
+        "400": {
+          "MSD": 0.044256,
+          "PE": 4.36
+        },
+        "500": {
+          "MSD": 0.044858,
+          "PE": 3.75
+        }
+      },
+      "Ea_activation_kJ": 0.0,
+      "conductivity_rank": "HIGH"
+    }
+  }
+}
