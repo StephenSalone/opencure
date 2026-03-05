@@ -1,0 +1,117 @@
+{
+  "tire_bootstrap": {
+    "Bahrain": {
+      "mean_advantage_pct": 1.0,
+      "std_pct": 5.62,
+      "ci_95_low": -10.6,
+      "ci_95_high": 8.13,
+      "win_rate_pct": 51.0
+    },
+    "Hungary": {
+      "mean_advantage_pct": -1.0,
+      "std_pct": 7.03,
+      "ci_95_low": -13.89,
+      "ci_95_high": 8.49,
+      "win_rate_pct": 44.0
+    },
+    "British": {
+      "mean_advantage_pct": -0.79,
+      "std_pct": 7.49,
+      "ci_95_low": -14.92,
+      "ci_95_high": 8.17,
+      "win_rate_pct": 54.0
+    },
+    "Japan": {
+      "mean_advantage_pct": -3.14,
+      "std_pct": 7.75,
+      "ci_95_low": -15.36,
+      "ci_95_high": 8.44,
+      "win_rate_pct": 37.0
+    },
+    "Mexico": {
+      "mean_advantage_pct": 0.98,
+      "std_pct": 5.78,
+      "ci_95_low": -11.11,
+      "ci_95_high": 8.26,
+      "win_rate_pct": 58.0
+    },
+    "Abu Dhabi": {
+      "mean_advantage_pct": -13.14,
+      "std_pct": 7.63,
+      "ci_95_low": -28.48,
+      "ci_95_high": -0.13,
+      "win_rate_pct": 2.0
+    },
+    "Singapore": {
+      "mean_advantage_pct": -28.1,
+      "std_pct": 11.25,
+      "ci_95_low": -46.68,
+      "ci_95_high": -9.42,
+      "win_rate_pct": 0.0
+    },
+    "Monaco": {
+      "mean_advantage_pct": -59.26,
+      "std_pct": 8.1,
+      "ci_95_low": -70.01,
+      "ci_95_high": -43.99,
+      "win_rate_pct": 0.0
+    },
+    "Italian": {
+      "mean_advantage_pct": -49.05,
+      "std_pct": 9.61,
+      "ci_95_low": -63.11,
+      "ci_95_high": -28.0,
+      "win_rate_pct": 0.0
+    }
+  },
+  "fuel_bootstrap": {
+    "alpha_pinene": {
+      "n_conformers": 100,
+      "mean_energy_kcal": 36.81,
+      "std_kcal": 0.0,
+      "min_energy_kcal": 36.81,
+      "ci_95": [
+        36.81,
+        36.81
+      ],
+      "MW": 136.2,
+      "specific_min_energy": 270.2
+    },
+    "methylnaphthalene": {
+      "n_conformers": 100,
+      "mean_energy_kcal": 33.22,
+      "std_kcal": 0.01,
+      "min_energy_kcal": 33.22,
+      "ci_95": [
+        33.22,
+        33.22
+      ],
+      "MW": 142.2,
+      "specific_min_energy": 233.6
+    },
+    "mesitylene": {
+      "n_conformers": 100,
+      "mean_energy_kcal": 22.84,
+      "std_kcal": 0.01,
+      "min_energy_kcal": 22.82,
+      "ci_95": [
+        22.82,
+        22.85
+      ],
+      "MW": 120.2,
+      "specific_min_energy": 189.9
+    },
+    "isooctane_ref": {
+      "n_conformers": 100,
+      "mean_energy_kcal": 19.15,
+      "std_kcal": 1.05,
+      "min_energy_kcal": 18.43,
+      "ci_95": [
+        18.43,
+        21.47
+      ],
+      "MW": 114.2,
+      "specific_min_energy": 161.4
+    }
+  }
+}
