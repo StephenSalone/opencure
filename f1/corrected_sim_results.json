@@ -1,0 +1,68 @@
+[
+  {
+    "circuit": "Bahrain",
+    "year": 2024,
+    "track_temp": 23.7,
+    "tire_temp": 88.7,
+    "nova32_advantage_pct": 5.91,
+    "best_pirelli": "NOVA32 (novel)",
+    "actual_fastest_lap": "0 days 00:01:32.608000",
+    "actual_winner": "VER",
+    "projected_gain_sec_per_lap": 1.049
+  },
+  {
+    "circuit": "British",
+    "year": 2024,
+    "track_temp": 27.7,
+    "tire_temp": 92.7,
+    "nova32_advantage_pct": -1.35,
+    "best_pirelli": "MEDIUM (C3)",
+    "actual_fastest_lap": "0 days 00:01:28.293000",
+    "actual_winner": "SAI",
+    "projected_gain_sec_per_lap": 0
+  },
+  {
+    "circuit": "Abu Dhabi",
+    "year": 2024,
+    "track_temp": 31.8,
+    "tire_temp": 96.8,
+    "nova32_advantage_pct": -12.31,
+    "best_pirelli": "MEDIUM (C3)",
+    "actual_fastest_lap": "0 days 00:01:25.637000",
+    "actual_winner": "MAG",
+    "projected_gain_sec_per_lap": 0
+  },
+  {
+    "circuit": "Singapore",
+    "year": 2024,
+    "track_temp": 36.4,
+    "tire_temp": 101.4,
+    "nova32_advantage_pct": -23.04,
+    "best_pirelli": "MEDIUM (C3)",
+    "actual_fastest_lap": "0 days 00:01:34.486000",
+    "actual_winner": "RIC",
+    "projected_gain_sec_per_lap": 0
+  },
+  {
+    "circuit": "Italian",
+    "year": 2023,
+    "track_temp": 42.9,
+    "tire_temp": 107.9,
+    "nova32_advantage_pct": -49.53,
+    "best_pirelli": "SOFT (C4/C5)",
+    "actual_fastest_lap": "0 days 00:01:25.072000",
+    "actual_winner": "PIA",
+    "projected_gain_sec_per_lap": 0
+  },
+  {
+    "circuit": "Monaco",
+    "year": 2024,
+    "track_temp": 46.3,
+    "tire_temp": 111.3,
+    "nova32_advantage_pct": -59.32,
+    "best_pirelli": "SOFT (C4/C5)",
+    "actual_fastest_lap": "0 days 00:01:14.165000",
+    "actual_winner": "HAM",
+    "projected_gain_sec_per_lap": 0
+  }
+]
